@@ -1,0 +1,165 @@
+====================================================
+open log file: 2024-02-29 07:29:48
+[2024-02-29 07:29:48][notice]Start optimizing image id:1621
+[2024-02-29 07:29:48][notice]Start backing up image(s).
+[2024-02-29 07:29:48][notice]Start compressing image woocommerce-placeholder-300x300.png
+[2024-02-29 07:29:48][notice]Compressing image woocommerce-placeholder-300x300.png failed. Error:Need login
+[2024-02-29 07:29:48][notice]Start retrying optimization. Count:1
+[2024-02-29 07:29:48][notice]Start compressing image woocommerce-placeholder-300x300.png
+[2024-02-29 07:29:48][notice]Compressing image woocommerce-placeholder-300x300.png failed. Error:Need login
+[2024-02-29 07:29:48][notice]Start retrying optimization. Count:2
+[2024-02-29 07:29:48][notice]Start compressing image woocommerce-placeholder-300x300.png
+[2024-02-29 07:29:48][notice]Compressing image woocommerce-placeholder-300x300.png failed. Error:Need login
+[2024-02-29 07:29:48][notice]Start retrying optimization. Count:3
+[2024-02-29 07:29:48][error]Compressing image woocommerce-placeholder-300x300.png failed. Error:Need login
+[2024-02-29 07:29:48][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 07:59:23
+[2024-02-29 07:59:23][notice]Start optimizing image id:1647
+[2024-02-29 07:59:23][notice]Start backing up image(s).
+[2024-02-29 07:59:23][notice]Start compressing image стандарт-300x192.jpg
+[2024-02-29 07:59:23][notice]Compressing image стандарт-300x192.jpg failed. Error:Need login
+[2024-02-29 07:59:23][notice]Start retrying optimization. Count:1
+[2024-02-29 07:59:23][notice]Start compressing image стандарт-300x192.jpg
+[2024-02-29 07:59:23][notice]Compressing image стандарт-300x192.jpg failed. Error:Need login
+[2024-02-29 07:59:23][notice]Start retrying optimization. Count:2
+[2024-02-29 07:59:23][notice]Start compressing image стандарт-300x192.jpg
+[2024-02-29 07:59:23][notice]Compressing image стандарт-300x192.jpg failed. Error:Need login
+[2024-02-29 07:59:23][notice]Start retrying optimization. Count:3
+[2024-02-29 07:59:23][error]Compressing image стандарт-300x192.jpg failed. Error:Need login
+[2024-02-29 07:59:23][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 08:06:10
+[2024-02-29 08:06:10][notice]Start optimizing image id:1649
+[2024-02-29 08:06:10][notice]Start backing up image(s).
+[2024-02-29 08:06:10][notice]Start compressing image праймик-150x150.png
+[2024-02-29 08:06:10][notice]Compressing image праймик-150x150.png failed. Error:Need login
+[2024-02-29 08:06:10][notice]Start retrying optimization. Count:1
+[2024-02-29 08:06:10][notice]Start compressing image праймик-150x150.png
+[2024-02-29 08:06:10][notice]Compressing image праймик-150x150.png failed. Error:Need login
+[2024-02-29 08:06:10][notice]Start retrying optimization. Count:2
+[2024-02-29 08:06:10][notice]Start compressing image праймик-150x150.png
+[2024-02-29 08:06:10][notice]Compressing image праймик-150x150.png failed. Error:Need login
+[2024-02-29 08:06:10][notice]Start retrying optimization. Count:3
+[2024-02-29 08:06:10][error]Compressing image праймик-150x150.png failed. Error:Need login
+[2024-02-29 08:06:10][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 08:16:13
+[2024-02-29 08:16:13][notice]Start optimizing image id:1651
+[2024-02-29 08:16:13][notice]Start backing up image(s).
+[2024-02-29 08:16:13][notice]Start compressing image дети-300x211.png
+[2024-02-29 08:16:13][notice]Compressing image дети-300x211.png failed. Error:Need login
+[2024-02-29 08:16:13][notice]Start retrying optimization. Count:1
+[2024-02-29 08:16:13][notice]Start compressing image дети-300x211.png
+[2024-02-29 08:16:13][notice]Compressing image дети-300x211.png failed. Error:Need login
+[2024-02-29 08:16:13][notice]Start retrying optimization. Count:2
+[2024-02-29 08:16:13][notice]Start compressing image дети-300x211.png
+[2024-02-29 08:16:13][notice]Compressing image дети-300x211.png failed. Error:Need login
+[2024-02-29 08:16:13][notice]Start retrying optimization. Count:3
+[2024-02-29 08:16:13][error]Compressing image дети-300x211.png failed. Error:Need login
+[2024-02-29 08:16:13][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 10:03:37
+[2024-02-29 10:03:37][notice]Start optimizing image id:1671
+[2024-02-29 10:03:37][notice]Start backing up image(s).
+[2024-02-29 10:03:37][notice]Start compressing image комфорт-300x150.jpg
+[2024-02-29 10:03:37][notice]Compressing image комфорт-300x150.jpg failed. Error:Need login
+[2024-02-29 10:03:37][notice]Start retrying optimization. Count:1
+[2024-02-29 10:03:37][notice]Start compressing image комфорт-300x150.jpg
+[2024-02-29 10:03:37][notice]Compressing image комфорт-300x150.jpg failed. Error:Need login
+[2024-02-29 10:03:37][notice]Start retrying optimization. Count:2
+[2024-02-29 10:03:37][notice]Start compressing image комфорт-300x150.jpg
+[2024-02-29 10:03:37][notice]Compressing image комфорт-300x150.jpg failed. Error:Need login
+[2024-02-29 10:03:37][notice]Start retrying optimization. Count:3
+[2024-02-29 10:03:37][error]Compressing image комфорт-300x150.jpg failed. Error:Need login
+[2024-02-29 10:03:37][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 10:06:15
+[2024-02-29 10:06:15][notice]Start optimizing image id:1673
+[2024-02-29 10:06:15][notice]Start backing up image(s).
+[2024-02-29 10:06:15][notice]Start compressing image семья-150x150.jpg
+[2024-02-29 10:06:15][notice]Compressing image семья-150x150.jpg failed. Error:Need login
+[2024-02-29 10:06:15][notice]Start retrying optimization. Count:1
+[2024-02-29 10:06:15][notice]Start compressing image семья-150x150.jpg
+[2024-02-29 10:06:15][notice]Compressing image семья-150x150.jpg failed. Error:Need login
+[2024-02-29 10:06:15][notice]Start retrying optimization. Count:2
+[2024-02-29 10:06:15][notice]Start compressing image семья-150x150.jpg
+[2024-02-29 10:06:15][notice]Compressing image семья-150x150.jpg failed. Error:Need login
+[2024-02-29 10:06:15][notice]Start retrying optimization. Count:3
+[2024-02-29 10:06:15][error]Compressing image семья-150x150.jpg failed. Error:Need login
+[2024-02-29 10:06:15][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 11:15:11
+[2024-02-29 11:15:11][notice]Start optimizing image id:1681
+[2024-02-29 11:15:11][notice]Start backing up image(s).
+[2024-02-29 11:15:11][notice]Start compressing image обои2-300x240.jpg
+[2024-02-29 11:15:11][notice]Compressing image обои2-300x240.jpg failed. Error:Need login
+[2024-02-29 11:15:11][notice]Start retrying optimization. Count:1
+[2024-02-29 11:15:11][notice]Start compressing image обои2-300x240.jpg
+[2024-02-29 11:15:11][notice]Compressing image обои2-300x240.jpg failed. Error:Need login
+[2024-02-29 11:15:11][notice]Start retrying optimization. Count:2
+[2024-02-29 11:15:11][notice]Start compressing image обои2-300x240.jpg
+[2024-02-29 11:15:11][notice]Compressing image обои2-300x240.jpg failed. Error:Need login
+[2024-02-29 11:15:11][notice]Start retrying optimization. Count:3
+[2024-02-29 11:15:11][error]Compressing image обои2-300x240.jpg failed. Error:Need login
+[2024-02-29 11:15:11][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 11:31:14
+[2024-02-29 11:31:14][notice]Start optimizing image id:1682
+[2024-02-29 11:31:14][notice]Start backing up image(s).
+[2024-02-29 11:31:14][notice]Start compressing image бабочка-300x200.jpeg
+[2024-02-29 11:31:14][notice]Compressing image бабочка-300x200.jpeg failed. Error:Need login
+[2024-02-29 11:31:14][notice]Start retrying optimization. Count:1
+[2024-02-29 11:31:14][notice]Start compressing image бабочка-300x200.jpeg
+[2024-02-29 11:31:14][notice]Compressing image бабочка-300x200.jpeg failed. Error:Need login
+[2024-02-29 11:31:14][notice]Start retrying optimization. Count:2
+[2024-02-29 11:31:14][notice]Start compressing image бабочка-300x200.jpeg
+[2024-02-29 11:31:14][notice]Compressing image бабочка-300x200.jpeg failed. Error:Need login
+[2024-02-29 11:31:14][notice]Start retrying optimization. Count:3
+[2024-02-29 11:31:14][error]Compressing image бабочка-300x200.jpeg failed. Error:Need login
+[2024-02-29 11:31:14][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 11:31:57
+[2024-02-29 11:31:57][notice]Start optimizing image id:1683
+[2024-02-29 11:31:57][notice]Start backing up image(s).
+[2024-02-29 11:31:57][notice]Start compressing image обои3-256x300.png
+[2024-02-29 11:31:57][notice]Compressing image обои3-256x300.png failed. Error:Need login
+[2024-02-29 11:31:57][notice]Start retrying optimization. Count:1
+[2024-02-29 11:31:57][notice]Start compressing image обои3-256x300.png
+[2024-02-29 11:31:57][notice]Compressing image обои3-256x300.png failed. Error:Need login
+[2024-02-29 11:31:57][notice]Start retrying optimization. Count:2
+[2024-02-29 11:31:57][notice]Start compressing image обои3-256x300.png
+[2024-02-29 11:31:57][notice]Compressing image обои3-256x300.png failed. Error:Need login
+[2024-02-29 11:31:57][notice]Start retrying optimization. Count:3
+[2024-02-29 11:31:57][error]Compressing image обои3-256x300.png failed. Error:Need login
+[2024-02-29 11:31:57][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 11:32:07
+[2024-02-29 11:32:07][notice]Start optimizing image id:1684
+[2024-02-29 11:32:07][notice]Start backing up image(s).
+[2024-02-29 11:32:07][notice]Start compressing image обои4-300x300.jpg
+[2024-02-29 11:32:07][notice]Compressing image обои4-300x300.jpg failed. Error:Need login
+[2024-02-29 11:32:07][notice]Start retrying optimization. Count:1
+[2024-02-29 11:32:07][notice]Start compressing image обои4-300x300.jpg
+[2024-02-29 11:32:07][notice]Compressing image обои4-300x300.jpg failed. Error:Need login
+[2024-02-29 11:32:07][notice]Start retrying optimization. Count:2
+[2024-02-29 11:32:07][notice]Start compressing image обои4-300x300.jpg
+[2024-02-29 11:32:07][notice]Compressing image обои4-300x300.jpg failed. Error:Need login
+[2024-02-29 11:32:07][notice]Start retrying optimization. Count:3
+[2024-02-29 11:32:07][error]Compressing image обои4-300x300.jpg failed. Error:Need login
+[2024-02-29 11:32:07][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-29 11:32:18
+[2024-02-29 11:32:18][notice]Start optimizing image id:1685
+[2024-02-29 11:32:18][notice]Start backing up image(s).
+[2024-02-29 11:32:18][notice]Start compressing image обои5-300x169.jpg
+[2024-02-29 11:32:18][notice]Compressing image обои5-300x169.jpg failed. Error:Need login
+[2024-02-29 11:32:18][notice]Start retrying optimization. Count:1
+[2024-02-29 11:32:18][notice]Start compressing image обои5-300x169.jpg
+[2024-02-29 11:32:18][notice]Compressing image обои5-300x169.jpg failed. Error:Need login
+[2024-02-29 11:32:18][notice]Start retrying optimization. Count:2
+[2024-02-29 11:32:18][notice]Start compressing image обои5-300x169.jpg
+[2024-02-29 11:32:18][notice]Compressing image обои5-300x169.jpg failed. Error:Need login
+[2024-02-29 11:32:18][notice]Start retrying optimization. Count:3
+[2024-02-29 11:32:18][error]Compressing image обои5-300x169.jpg failed. Error:Need login
+[2024-02-29 11:32:18][error]Optimizing image failed. Error:Need login

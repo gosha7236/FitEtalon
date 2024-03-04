@@ -1,0 +1,75 @@
+====================================================
+open log file: 2024-02-28 09:08:05
+[2024-02-28 09:08:05][notice]Start optimizing image id:1542
+[2024-02-28 09:08:05][notice]Start backing up image(s).
+[2024-02-28 09:08:05][notice]Start compressing image абонементы-300x237.jpg
+[2024-02-28 09:08:05][notice]Compressing image абонементы-300x237.jpg failed. Error:Need login
+[2024-02-28 09:08:05][notice]Start retrying optimization. Count:1
+[2024-02-28 09:08:05][notice]Start compressing image абонементы-300x237.jpg
+[2024-02-28 09:08:05][notice]Compressing image абонементы-300x237.jpg failed. Error:Need login
+[2024-02-28 09:08:05][notice]Start retrying optimization. Count:2
+[2024-02-28 09:08:05][notice]Start compressing image абонементы-300x237.jpg
+[2024-02-28 09:08:05][notice]Compressing image абонементы-300x237.jpg failed. Error:Need login
+[2024-02-28 09:08:05][notice]Start retrying optimization. Count:3
+[2024-02-28 09:08:05][error]Compressing image абонементы-300x237.jpg failed. Error:Need login
+[2024-02-28 09:08:05][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-28 09:09:06
+[2024-02-28 09:09:06][notice]Start optimizing image id:1543
+[2024-02-28 09:09:06][notice]Start backing up image(s).
+[2024-02-28 09:09:06][notice]Start compressing image абонементы-1-300x237.jpg
+[2024-02-28 09:09:06][notice]Compressing image абонементы-1-300x237.jpg failed. Error:Need login
+[2024-02-28 09:09:06][notice]Start retrying optimization. Count:1
+[2024-02-28 09:09:06][notice]Start compressing image абонементы-1-300x237.jpg
+[2024-02-28 09:09:06][notice]Compressing image абонементы-1-300x237.jpg failed. Error:Need login
+[2024-02-28 09:09:06][notice]Start retrying optimization. Count:2
+[2024-02-28 09:09:06][notice]Start compressing image абонементы-1-300x237.jpg
+[2024-02-28 09:09:06][notice]Compressing image абонементы-1-300x237.jpg failed. Error:Need login
+[2024-02-28 09:09:06][notice]Start retrying optimization. Count:3
+[2024-02-28 09:09:06][error]Compressing image абонементы-1-300x237.jpg failed. Error:Need login
+[2024-02-28 09:09:06][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-28 09:11:09
+[2024-02-28 09:11:09][notice]Start optimizing image id:1546
+[2024-02-28 09:11:09][notice]Start backing up image(s).
+[2024-02-28 09:11:09][notice]Start compressing image абонементы-2-300x237.jpg
+[2024-02-28 09:11:09][notice]Compressing image абонементы-2-300x237.jpg failed. Error:Need login
+[2024-02-28 09:11:09][notice]Start retrying optimization. Count:1
+[2024-02-28 09:11:09][notice]Start compressing image абонементы-2-300x237.jpg
+[2024-02-28 09:11:09][notice]Compressing image абонементы-2-300x237.jpg failed. Error:Need login
+[2024-02-28 09:11:09][notice]Start retrying optimization. Count:2
+[2024-02-28 09:11:09][notice]Start compressing image абонементы-2-300x237.jpg
+[2024-02-28 09:11:09][notice]Compressing image абонементы-2-300x237.jpg failed. Error:Need login
+[2024-02-28 09:11:09][notice]Start retrying optimization. Count:3
+[2024-02-28 09:11:09][error]Compressing image абонементы-2-300x237.jpg failed. Error:Need login
+[2024-02-28 09:11:09][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-28 09:15:17
+[2024-02-28 09:15:17][notice]Start optimizing image id:1548
+[2024-02-28 09:15:17][notice]Start backing up image(s).
+[2024-02-28 09:15:17][notice]Start compressing image абонементы-3-300x237.jpg
+[2024-02-28 09:15:17][notice]Compressing image абонементы-3-300x237.jpg failed. Error:Need login
+[2024-02-28 09:15:17][notice]Start retrying optimization. Count:1
+[2024-02-28 09:15:17][notice]Start compressing image абонементы-3-300x237.jpg
+[2024-02-28 09:15:17][notice]Compressing image абонементы-3-300x237.jpg failed. Error:Need login
+[2024-02-28 09:15:17][notice]Start retrying optimization. Count:2
+[2024-02-28 09:15:17][notice]Start compressing image абонементы-3-300x237.jpg
+[2024-02-28 09:15:17][notice]Compressing image абонементы-3-300x237.jpg failed. Error:Need login
+[2024-02-28 09:15:17][notice]Start retrying optimization. Count:3
+[2024-02-28 09:15:17][error]Compressing image абонементы-3-300x237.jpg failed. Error:Need login
+[2024-02-28 09:15:17][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-28 09:28:51
+[2024-02-28 09:28:51][notice]Start optimizing image id:1577
+[2024-02-28 09:28:51][notice]Start backing up image(s).
+[2024-02-28 09:28:51][notice]Start compressing image абонементы-4-300x237.jpg
+[2024-02-28 09:28:51][notice]Compressing image абонементы-4-300x237.jpg failed. Error:Need login
+[2024-02-28 09:28:51][notice]Start retrying optimization. Count:1
+[2024-02-28 09:28:51][notice]Start compressing image абонементы-4-300x237.jpg
+[2024-02-28 09:28:51][notice]Compressing image абонементы-4-300x237.jpg failed. Error:Need login
+[2024-02-28 09:28:51][notice]Start retrying optimization. Count:2
+[2024-02-28 09:28:51][notice]Start compressing image абонементы-4-300x237.jpg
+[2024-02-28 09:28:51][notice]Compressing image абонементы-4-300x237.jpg failed. Error:Need login
+[2024-02-28 09:28:51][notice]Start retrying optimization. Count:3
+[2024-02-28 09:28:51][error]Compressing image абонементы-4-300x237.jpg failed. Error:Need login
+[2024-02-28 09:28:51][error]Optimizing image failed. Error:Need login

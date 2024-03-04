@@ -1,0 +1,420 @@
+====================================================
+open log file: 2024-02-27 07:37:02
+[2024-02-27 07:37:02][notice]Start optimizing image id:20
+[2024-02-27 07:37:02][notice]Start backing up image(s).
+[2024-02-27 07:37:02][notice]Start compressing image cropped-Untitled-1-150x69.png
+[2024-02-27 07:37:02][notice]Compressing image cropped-Untitled-1-150x69.png failed. Error:Need login
+[2024-02-27 07:37:02][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:02][notice]Start compressing image cropped-Untitled-1-150x69.png
+[2024-02-27 07:37:02][notice]Compressing image cropped-Untitled-1-150x69.png failed. Error:Need login
+[2024-02-27 07:37:02][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:02][notice]Start compressing image cropped-Untitled-1-150x69.png
+[2024-02-27 07:37:02][notice]Compressing image cropped-Untitled-1-150x69.png failed. Error:Need login
+[2024-02-27 07:37:02][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:02][error]Compressing image cropped-Untitled-1-150x69.png failed. Error:Need login
+[2024-02-27 07:37:02][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:04
+[2024-02-27 07:37:04][notice]Start optimizing image id:1405
+[2024-02-27 07:37:04][notice]Start backing up image(s).
+[2024-02-27 07:37:04][notice]Start compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg
+[2024-02-27 07:37:04][notice]Compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:04][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:04][notice]Start compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg
+[2024-02-27 07:37:04][notice]Compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:04][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:04][notice]Start compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg
+[2024-02-27 07:37:04][notice]Compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:04][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:04][error]Compressing image fitness-gym-woman-exercising-training-motivation-1633004-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:04][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:06
+[2024-02-27 07:37:06][notice]Start optimizing image id:1407
+[2024-02-27 07:37:06][notice]Start backing up image(s).
+[2024-02-27 07:37:06][notice]Start compressing image girl-in-gym-300x200.png
+[2024-02-27 07:37:06][notice]Compressing image girl-in-gym-300x200.png failed. Error:Need login
+[2024-02-27 07:37:06][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:06][notice]Start compressing image girl-in-gym-300x200.png
+[2024-02-27 07:37:06][notice]Compressing image girl-in-gym-300x200.png failed. Error:Need login
+[2024-02-27 07:37:06][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:06][notice]Start compressing image girl-in-gym-300x200.png
+[2024-02-27 07:37:06][notice]Compressing image girl-in-gym-300x200.png failed. Error:Need login
+[2024-02-27 07:37:06][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:06][error]Compressing image girl-in-gym-300x200.png failed. Error:Need login
+[2024-02-27 07:37:06][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:09
+[2024-02-27 07:37:09][notice]Start optimizing image id:1408
+[2024-02-27 07:37:09][notice]Start backing up image(s).
+[2024-02-27 07:37:09][notice]Start compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg
+[2024-02-27 07:37:09][notice]Compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:09][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:09][notice]Start compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg
+[2024-02-27 07:37:09][notice]Compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:09][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:09][notice]Start compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg
+[2024-02-27 07:37:09][notice]Compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:09][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:09][error]Compressing image girl-woman-dark-female-concert-training-1175878-pxhere.com_-scaled-1-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:09][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:11
+[2024-02-27 07:37:11][notice]Start optimizing image id:1409
+[2024-02-27 07:37:11][notice]Start backing up image(s).
+[2024-02-27 07:37:11][notice]Start compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg
+[2024-02-27 07:37:11][notice]Compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:11][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:11][notice]Start compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg
+[2024-02-27 07:37:11][notice]Compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:11][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:11][notice]Start compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg
+[2024-02-27 07:37:11][notice]Compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:11][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:11][error]Compressing image girls-summer-sport-fitness-training-lifestyle-1629576-pxhere.com_-300x200.jpg failed. Error:Need login
+[2024-02-27 07:37:11][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:14
+[2024-02-27 07:37:14][notice]Start optimizing image id:1410
+[2024-02-27 07:37:14][notice]Start backing up image(s).
+[2024-02-27 07:37:14][notice]Start compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg
+[2024-02-27 07:37:14][notice]Compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg failed. Error:Need login
+[2024-02-27 07:37:14][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:14][notice]Start compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg
+[2024-02-27 07:37:14][notice]Compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg failed. Error:Need login
+[2024-02-27 07:37:14][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:14][notice]Start compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg
+[2024-02-27 07:37:14][notice]Compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg failed. Error:Need login
+[2024-02-27 07:37:14][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:14][error]Compressing image hand-girl-sport-leg-young-sitting-1029212-pxhere.com_-scaled-1-223x300.jpg failed. Error:Need login
+[2024-02-27 07:37:14][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:16
+[2024-02-27 07:37:16][notice]Start optimizing image id:1412
+[2024-02-27 07:37:16][notice]Start backing up image(s).
+[2024-02-27 07:37:16][notice]Start compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg
+[2024-02-27 07:37:16][notice]Compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg failed. Error:Need login
+[2024-02-27 07:37:16][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:16][notice]Start compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg
+[2024-02-27 07:37:16][notice]Compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg failed. Error:Need login
+[2024-02-27 07:37:16][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:16][notice]Start compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg
+[2024-02-27 07:37:16][notice]Compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg failed. Error:Need login
+[2024-02-27 07:37:16][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:16][error]Compressing image light-girl-hair-white-view-photo-801748-pxhere.com_-300x169.jpg failed. Error:Need login
+[2024-02-27 07:37:16][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:37:17
+[2024-02-27 07:37:17][notice]Start optimizing image id:1413
+[2024-02-27 07:37:17][notice]Start backing up image(s).
+[2024-02-27 07:37:17][notice]Start compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg
+[2024-02-27 07:37:17][notice]Compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:17][notice]Start retrying optimization. Count:1
+[2024-02-27 07:37:17][notice]Start compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg
+[2024-02-27 07:37:17][notice]Compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:17][notice]Start retrying optimization. Count:2
+[2024-02-27 07:37:17][notice]Start compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg
+[2024-02-27 07:37:17][notice]Compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:17][notice]Start retrying optimization. Count:3
+[2024-02-27 07:37:17][error]Compressing image person-woman-sport-female-young-equipment-874404-pxhere.com_-300x199.jpg failed. Error:Need login
+[2024-02-27 07:37:17][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 07:51:23
+[2024-02-27 07:51:23][notice]Start optimizing image id:1431
+[2024-02-27 07:51:23][notice]Start backing up image(s).
+[2024-02-27 07:51:23][notice]Start compressing image главная-300x197.jpg
+[2024-02-27 07:51:23][notice]Compressing image главная-300x197.jpg failed. Error:Need login
+[2024-02-27 07:51:23][notice]Start retrying optimization. Count:1
+[2024-02-27 07:51:23][notice]Start compressing image главная-300x197.jpg
+[2024-02-27 07:51:23][notice]Compressing image главная-300x197.jpg failed. Error:Need login
+[2024-02-27 07:51:23][notice]Start retrying optimization. Count:2
+[2024-02-27 07:51:23][notice]Start compressing image главная-300x197.jpg
+[2024-02-27 07:51:23][notice]Compressing image главная-300x197.jpg failed. Error:Need login
+[2024-02-27 07:51:23][notice]Start retrying optimization. Count:3
+[2024-02-27 07:51:23][error]Compressing image главная-300x197.jpg failed. Error:Need login
+[2024-02-27 07:51:23][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:05:40
+[2024-02-27 08:05:40][notice]Start optimizing image id:1434
+[2024-02-27 08:05:40][notice]Start backing up image(s).
+[2024-02-27 08:05:40][notice]Start compressing image главная-1-300x197.jpg
+[2024-02-27 08:05:40][notice]Compressing image главная-1-300x197.jpg failed. Error:Need login
+[2024-02-27 08:05:40][notice]Start retrying optimization. Count:1
+[2024-02-27 08:05:40][notice]Start compressing image главная-1-300x197.jpg
+[2024-02-27 08:05:40][notice]Compressing image главная-1-300x197.jpg failed. Error:Need login
+[2024-02-27 08:05:40][notice]Start retrying optimization. Count:2
+[2024-02-27 08:05:40][notice]Start compressing image главная-1-300x197.jpg
+[2024-02-27 08:05:40][notice]Compressing image главная-1-300x197.jpg failed. Error:Need login
+[2024-02-27 08:05:40][notice]Start retrying optimization. Count:3
+[2024-02-27 08:05:40][error]Compressing image главная-1-300x197.jpg failed. Error:Need login
+[2024-02-27 08:05:40][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:16:17
+[2024-02-27 08:16:17][notice]Start optimizing image id:1437
+[2024-02-27 08:16:17][notice]Start backing up image(s).
+[2024-02-27 08:16:17][notice]Start compressing image фотка2-269x300.jpg
+[2024-02-27 08:16:17][notice]Compressing image фотка2-269x300.jpg failed. Error:Need login
+[2024-02-27 08:16:17][notice]Start retrying optimization. Count:1
+[2024-02-27 08:16:17][notice]Start compressing image фотка2-269x300.jpg
+[2024-02-27 08:16:17][notice]Compressing image фотка2-269x300.jpg failed. Error:Need login
+[2024-02-27 08:16:17][notice]Start retrying optimization. Count:2
+[2024-02-27 08:16:17][notice]Start compressing image фотка2-269x300.jpg
+[2024-02-27 08:16:17][notice]Compressing image фотка2-269x300.jpg failed. Error:Need login
+[2024-02-27 08:16:17][notice]Start retrying optimization. Count:3
+[2024-02-27 08:16:17][error]Compressing image фотка2-269x300.jpg failed. Error:Need login
+[2024-02-27 08:16:17][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:21:07
+[2024-02-27 08:21:07][notice]Start optimizing image id:1442
+[2024-02-27 08:21:07][notice]Start backing up image(s).
+[2024-02-27 08:21:07][notice]Start compressing image логотип-150x150.png
+[2024-02-27 08:21:07][notice]Compressing image логотип-150x150.png failed. Error:Need login
+[2024-02-27 08:21:07][notice]Start retrying optimization. Count:1
+[2024-02-27 08:21:07][notice]Start compressing image логотип-150x150.png
+[2024-02-27 08:21:07][notice]Compressing image логотип-150x150.png failed. Error:Need login
+[2024-02-27 08:21:07][notice]Start retrying optimization. Count:2
+[2024-02-27 08:21:07][notice]Start compressing image логотип-150x150.png
+[2024-02-27 08:21:07][notice]Compressing image логотип-150x150.png failed. Error:Need login
+[2024-02-27 08:21:07][notice]Start retrying optimization. Count:3
+[2024-02-27 08:21:07][error]Compressing image логотип-150x150.png failed. Error:Need login
+[2024-02-27 08:21:07][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:22:35
+[2024-02-27 08:22:35][notice]Start optimizing image id:1443
+[2024-02-27 08:22:35][notice]Start backing up image(s).
+[2024-02-27 08:22:35][notice]Start compressing image логотип-1-150x150.png
+[2024-02-27 08:22:35][notice]Compressing image логотип-1-150x150.png failed. Error:Need login
+[2024-02-27 08:22:35][notice]Start retrying optimization. Count:1
+[2024-02-27 08:22:35][notice]Start compressing image логотип-1-150x150.png
+[2024-02-27 08:22:35][notice]Compressing image логотип-1-150x150.png failed. Error:Need login
+[2024-02-27 08:22:35][notice]Start retrying optimization. Count:2
+[2024-02-27 08:22:35][notice]Start compressing image логотип-1-150x150.png
+[2024-02-27 08:22:35][notice]Compressing image логотип-1-150x150.png failed. Error:Need login
+[2024-02-27 08:22:35][notice]Start retrying optimization. Count:3
+[2024-02-27 08:22:35][error]Compressing image логотип-1-150x150.png failed. Error:Need login
+[2024-02-27 08:22:35][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:40:50
+[2024-02-27 08:40:50][notice]Start optimizing image id:1447
+[2024-02-27 08:40:50][notice]Start backing up image(s).
+[2024-02-27 08:40:50][notice]Start compressing image image-300x300.jpeg
+[2024-02-27 08:40:50][notice]Compressing image image-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:50][notice]Start retrying optimization. Count:1
+[2024-02-27 08:40:50][notice]Start compressing image image-300x300.jpeg
+[2024-02-27 08:40:50][notice]Compressing image image-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:50][notice]Start retrying optimization. Count:2
+[2024-02-27 08:40:50][notice]Start compressing image image-300x300.jpeg
+[2024-02-27 08:40:50][notice]Compressing image image-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:50][notice]Start retrying optimization. Count:3
+[2024-02-27 08:40:50][error]Compressing image image-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:50][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:40:55
+[2024-02-27 08:40:55][notice]Start optimizing image id:1448
+[2024-02-27 08:40:55][notice]Start backing up image(s).
+[2024-02-27 08:40:55][notice]Start compressing image image-1-300x300.jpeg
+[2024-02-27 08:40:55][notice]Compressing image image-1-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:55][notice]Start retrying optimization. Count:1
+[2024-02-27 08:40:55][notice]Start compressing image image-1-300x300.jpeg
+[2024-02-27 08:40:55][notice]Compressing image image-1-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:55][notice]Start retrying optimization. Count:2
+[2024-02-27 08:40:55][notice]Start compressing image image-1-300x300.jpeg
+[2024-02-27 08:40:55][notice]Compressing image image-1-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:55][notice]Start retrying optimization. Count:3
+[2024-02-27 08:40:55][error]Compressing image image-1-300x300.jpeg failed. Error:Need login
+[2024-02-27 08:40:55][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:48:09
+[2024-02-27 08:48:09][notice]Start optimizing image id:1450
+[2024-02-27 08:48:09][notice]Start backing up image(s).
+[2024-02-27 08:48:09][notice]Start compressing image фотка2-1-269x300.jpg
+[2024-02-27 08:48:09][notice]Compressing image фотка2-1-269x300.jpg failed. Error:Need login
+[2024-02-27 08:48:09][notice]Start retrying optimization. Count:1
+[2024-02-27 08:48:09][notice]Start compressing image фотка2-1-269x300.jpg
+[2024-02-27 08:48:09][notice]Compressing image фотка2-1-269x300.jpg failed. Error:Need login
+[2024-02-27 08:48:09][notice]Start retrying optimization. Count:2
+[2024-02-27 08:48:09][notice]Start compressing image фотка2-1-269x300.jpg
+[2024-02-27 08:48:09][notice]Compressing image фотка2-1-269x300.jpg failed. Error:Need login
+[2024-02-27 08:48:09][notice]Start retrying optimization. Count:3
+[2024-02-27 08:48:09][error]Compressing image фотка2-1-269x300.jpg failed. Error:Need login
+[2024-02-27 08:48:09][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 08:57:43
+[2024-02-27 08:57:43][notice]Start optimizing image id:1453
+[2024-02-27 08:57:43][notice]Start backing up image(s).
+[2024-02-27 08:57:43][notice]Start compressing image главная-2-300x197.jpg
+[2024-02-27 08:57:43][notice]Compressing image главная-2-300x197.jpg failed. Error:Need login
+[2024-02-27 08:57:43][notice]Start retrying optimization. Count:1
+[2024-02-27 08:57:43][notice]Start compressing image главная-2-300x197.jpg
+[2024-02-27 08:57:43][notice]Compressing image главная-2-300x197.jpg failed. Error:Need login
+[2024-02-27 08:57:43][notice]Start retrying optimization. Count:2
+[2024-02-27 08:57:43][notice]Start compressing image главная-2-300x197.jpg
+[2024-02-27 08:57:43][notice]Compressing image главная-2-300x197.jpg failed. Error:Need login
+[2024-02-27 08:57:43][notice]Start retrying optimization. Count:3
+[2024-02-27 08:57:43][error]Compressing image главная-2-300x197.jpg failed. Error:Need login
+[2024-02-27 08:57:43][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 09:22:20
+[2024-02-27 09:22:20][notice]Start optimizing image id:1459
+[2024-02-27 09:22:20][notice]Start backing up image(s).
+[2024-02-27 09:22:20][notice]Start compressing image главная-3-300x197.jpg
+[2024-02-27 09:22:20][notice]Compressing image главная-3-300x197.jpg failed. Error:Need login
+[2024-02-27 09:22:20][notice]Start retrying optimization. Count:1
+[2024-02-27 09:22:20][notice]Start compressing image главная-3-300x197.jpg
+[2024-02-27 09:22:20][notice]Compressing image главная-3-300x197.jpg failed. Error:Need login
+[2024-02-27 09:22:20][notice]Start retrying optimization. Count:2
+[2024-02-27 09:22:20][notice]Start compressing image главная-3-300x197.jpg
+[2024-02-27 09:22:20][notice]Compressing image главная-3-300x197.jpg failed. Error:Need login
+[2024-02-27 09:22:20][notice]Start retrying optimization. Count:3
+[2024-02-27 09:22:20][error]Compressing image главная-3-300x197.jpg failed. Error:Need login
+[2024-02-27 09:22:20][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 09:22:37
+[2024-02-27 09:22:37][notice]Start optimizing image id:1460
+[2024-02-27 09:22:37][notice]Start backing up image(s).
+[2024-02-27 09:22:37][notice]Start compressing image фотка2-2-269x300.jpg
+[2024-02-27 09:22:37][notice]Compressing image фотка2-2-269x300.jpg failed. Error:Need login
+[2024-02-27 09:22:37][notice]Start retrying optimization. Count:1
+[2024-02-27 09:22:37][notice]Start compressing image фотка2-2-269x300.jpg
+[2024-02-27 09:22:37][notice]Compressing image фотка2-2-269x300.jpg failed. Error:Need login
+[2024-02-27 09:22:37][notice]Start retrying optimization. Count:2
+[2024-02-27 09:22:37][notice]Start compressing image фотка2-2-269x300.jpg
+[2024-02-27 09:22:37][notice]Compressing image фотка2-2-269x300.jpg failed. Error:Need login
+[2024-02-27 09:22:37][notice]Start retrying optimization. Count:3
+[2024-02-27 09:22:37][error]Compressing image фотка2-2-269x300.jpg failed. Error:Need login
+[2024-02-27 09:22:37][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 09:23:06
+[2024-02-27 09:23:06][notice]Start optimizing image id:1461
+[2024-02-27 09:23:06][notice]Start backing up image(s).
+[2024-02-27 09:23:06][notice]Start compressing image главная2-300x269.jpg
+[2024-02-27 09:23:06][notice]Compressing image главная2-300x269.jpg failed. Error:Need login
+[2024-02-27 09:23:07][notice]Start retrying optimization. Count:1
+[2024-02-27 09:23:07][notice]Start compressing image главная2-300x269.jpg
+[2024-02-27 09:23:07][notice]Compressing image главная2-300x269.jpg failed. Error:Need login
+[2024-02-27 09:23:07][notice]Start retrying optimization. Count:2
+[2024-02-27 09:23:07][notice]Start compressing image главная2-300x269.jpg
+[2024-02-27 09:23:07][notice]Compressing image главная2-300x269.jpg failed. Error:Need login
+[2024-02-27 09:23:07][notice]Start retrying optimization. Count:3
+[2024-02-27 09:23:07][error]Compressing image главная2-300x269.jpg failed. Error:Need login
+[2024-02-27 09:23:07][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 09:34:21
+[2024-02-27 09:34:21][notice]Start optimizing image id:1463
+[2024-02-27 09:34:21][notice]Start backing up image(s).
+[2024-02-27 09:34:21][notice]Start compressing image логотип-2-150x150.png
+[2024-02-27 09:34:21][notice]Compressing image логотип-2-150x150.png failed. Error:Need login
+[2024-02-27 09:34:21][notice]Start retrying optimization. Count:1
+[2024-02-27 09:34:21][notice]Start compressing image логотип-2-150x150.png
+[2024-02-27 09:34:21][notice]Compressing image логотип-2-150x150.png failed. Error:Need login
+[2024-02-27 09:34:21][notice]Start retrying optimization. Count:2
+[2024-02-27 09:34:21][notice]Start compressing image логотип-2-150x150.png
+[2024-02-27 09:34:21][notice]Compressing image логотип-2-150x150.png failed. Error:Need login
+[2024-02-27 09:34:21][notice]Start retrying optimization. Count:3
+[2024-02-27 09:34:21][error]Compressing image логотип-2-150x150.png failed. Error:Need login
+[2024-02-27 09:34:21][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 09:36:47
+[2024-02-27 09:36:47][notice]Start optimizing image id:1464
+[2024-02-27 09:36:47][notice]Start backing up image(s).
+[2024-02-27 09:36:47][notice]Start compressing image telephone-300x300.jpg
+[2024-02-27 09:36:47][notice]Compressing image telephone-300x300.jpg failed. Error:Need login
+[2024-02-27 09:36:47][notice]Start retrying optimization. Count:1
+[2024-02-27 09:36:47][notice]Start compressing image telephone-300x300.jpg
+[2024-02-27 09:36:47][notice]Compressing image telephone-300x300.jpg failed. Error:Need login
+[2024-02-27 09:36:47][notice]Start retrying optimization. Count:2
+[2024-02-27 09:36:47][notice]Start compressing image telephone-300x300.jpg
+[2024-02-27 09:36:47][notice]Compressing image telephone-300x300.jpg failed. Error:Need login
+[2024-02-27 09:36:47][notice]Start retrying optimization. Count:3
+[2024-02-27 09:36:47][error]Compressing image telephone-300x300.jpg failed. Error:Need login
+[2024-02-27 09:36:47][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 12:19:44
+[2024-02-27 12:19:44][notice]Start optimizing image id:1498
+[2024-02-27 12:19:44][notice]Start backing up image(s).
+[2024-02-27 12:19:44][notice]Start compressing image логотип-3-150x150.png
+[2024-02-27 12:19:44][notice]Compressing image логотип-3-150x150.png failed. Error:Need login
+[2024-02-27 12:19:44][notice]Start retrying optimization. Count:1
+[2024-02-27 12:19:44][notice]Start compressing image логотип-3-150x150.png
+[2024-02-27 12:19:44][notice]Compressing image логотип-3-150x150.png failed. Error:Need login
+[2024-02-27 12:19:44][notice]Start retrying optimization. Count:2
+[2024-02-27 12:19:44][notice]Start compressing image логотип-3-150x150.png
+[2024-02-27 12:19:44][notice]Compressing image логотип-3-150x150.png failed. Error:Need login
+[2024-02-27 12:19:44][notice]Start retrying optimization. Count:3
+[2024-02-27 12:19:44][error]Compressing image логотип-3-150x150.png failed. Error:Need login
+[2024-02-27 12:19:44][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 12:20:07
+[2024-02-27 12:20:07][notice]Start optimizing image id:1499
+[2024-02-27 12:20:07][notice]Start backing up image(s).
+[2024-02-27 12:20:07][notice]Start compressing image логотип-4-300x300.png
+[2024-02-27 12:20:07][notice]Compressing image логотип-4-300x300.png failed. Error:Need login
+[2024-02-27 12:20:07][notice]Start retrying optimization. Count:1
+[2024-02-27 12:20:07][notice]Start compressing image логотип-4-300x300.png
+[2024-02-27 12:20:07][notice]Compressing image логотип-4-300x300.png failed. Error:Need login
+[2024-02-27 12:20:07][notice]Start retrying optimization. Count:2
+[2024-02-27 12:20:07][notice]Start compressing image логотип-4-300x300.png
+[2024-02-27 12:20:07][notice]Compressing image логотип-4-300x300.png failed. Error:Need login
+[2024-02-27 12:20:07][notice]Start retrying optimization. Count:3
+[2024-02-27 12:20:07][error]Compressing image логотип-4-300x300.png failed. Error:Need login
+[2024-02-27 12:20:07][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 12:20:46
+[2024-02-27 12:20:46][notice]Start optimizing image id:1500
+[2024-02-27 12:20:46][notice]Start backing up image(s).
+[2024-02-27 12:20:46][notice]Start compressing image логотип-5-300x300.png
+[2024-02-27 12:20:46][notice]Compressing image логотип-5-300x300.png failed. Error:Need login
+[2024-02-27 12:20:46][notice]Start retrying optimization. Count:1
+[2024-02-27 12:20:46][notice]Start compressing image логотип-5-300x300.png
+[2024-02-27 12:20:46][notice]Compressing image логотип-5-300x300.png failed. Error:Need login
+[2024-02-27 12:20:46][notice]Start retrying optimization. Count:2
+[2024-02-27 12:20:46][notice]Start compressing image логотип-5-300x300.png
+[2024-02-27 12:20:46][notice]Compressing image логотип-5-300x300.png failed. Error:Need login
+[2024-02-27 12:20:46][notice]Start retrying optimization. Count:3
+[2024-02-27 12:20:46][error]Compressing image логотип-5-300x300.png failed. Error:Need login
+[2024-02-27 12:20:46][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 12:21:11
+[2024-02-27 12:21:11][notice]Start optimizing image id:1502
+[2024-02-27 12:21:11][notice]Start backing up image(s).
+[2024-02-27 12:21:11][notice]Start compressing image логотип-6-300x300.png
+[2024-02-27 12:21:11][notice]Compressing image логотип-6-300x300.png failed. Error:Need login
+[2024-02-27 12:21:11][notice]Start retrying optimization. Count:1
+[2024-02-27 12:21:11][notice]Start compressing image логотип-6-300x300.png
+[2024-02-27 12:21:11][notice]Compressing image логотип-6-300x300.png failed. Error:Need login
+[2024-02-27 12:21:11][notice]Start retrying optimization. Count:2
+[2024-02-27 12:21:11][notice]Start compressing image логотип-6-300x300.png
+[2024-02-27 12:21:11][notice]Compressing image логотип-6-300x300.png failed. Error:Need login
+[2024-02-27 12:21:11][notice]Start retrying optimization. Count:3
+[2024-02-27 12:21:11][error]Compressing image логотип-6-300x300.png failed. Error:Need login
+[2024-02-27 12:21:11][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 12:24:50
+[2024-02-27 12:24:50][notice]Start optimizing image id:1504
+[2024-02-27 12:24:50][notice]Start backing up image(s).
+[2024-02-27 12:24:50][notice]Start compressing image логотип-7-300x300.png
+[2024-02-27 12:24:50][notice]Compressing image логотип-7-300x300.png failed. Error:Need login
+[2024-02-27 12:24:50][notice]Start retrying optimization. Count:1
+[2024-02-27 12:24:50][notice]Start compressing image логотип-7-300x300.png
+[2024-02-27 12:24:50][notice]Compressing image логотип-7-300x300.png failed. Error:Need login
+[2024-02-27 12:24:50][notice]Start retrying optimization. Count:2
+[2024-02-27 12:24:50][notice]Start compressing image логотип-7-300x300.png
+[2024-02-27 12:24:50][notice]Compressing image логотип-7-300x300.png failed. Error:Need login
+[2024-02-27 12:24:50][notice]Start retrying optimization. Count:3
+[2024-02-27 12:24:50][error]Compressing image логотип-7-300x300.png failed. Error:Need login
+[2024-02-27 12:24:50][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-02-27 12:27:15
+[2024-02-27 12:27:15][notice]Start optimizing image id:1505
+[2024-02-27 12:27:15][notice]Start backing up image(s).
+[2024-02-27 12:27:15][notice]Start compressing image логотип-8-300x300.png
+[2024-02-27 12:27:15][notice]Compressing image логотип-8-300x300.png failed. Error:Need login
+[2024-02-27 12:27:15][notice]Start retrying optimization. Count:1
+[2024-02-27 12:27:15][notice]Start compressing image логотип-8-300x300.png
+[2024-02-27 12:27:15][notice]Compressing image логотип-8-300x300.png failed. Error:Need login
+[2024-02-27 12:27:15][notice]Start retrying optimization. Count:2
+[2024-02-27 12:27:15][notice]Start compressing image логотип-8-300x300.png
+[2024-02-27 12:27:15][notice]Compressing image логотип-8-300x300.png failed. Error:Need login
+[2024-02-27 12:27:15][notice]Start retrying optimization. Count:3
+[2024-02-27 12:27:15][error]Compressing image логотип-8-300x300.png failed. Error:Need login
+[2024-02-27 12:27:15][error]Optimizing image failed. Error:Need login

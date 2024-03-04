@@ -1,0 +1,18 @@
+.icon-required {color: red;}
+.wpdmi-form-label {max-width:100%; min-width: 160px;display: inline-block;}
+.just-save {font-size:80%; }
+.tooltipsy {padding: 10px;max-width: 280px;color: #303030;background-color: rgba(245, 245, 181, .9);border: 1px solid #deca7e;font-size:80%;}
+.hastip {background:url(images/icon-help.png) no-repeat 50% 50%;cursor:pointer; width: 14px;height: 14px;line-height: 1;display: inline-block;}
+.wpmdi_notices {border-left:3px solid red;padding-left:3%; background:#fff; list-style:none; }
+.wpmdi_notices.update {border-left:3px solid green; }
+.wpdmi-text-center {text-align:center;}
+
+@media only screen and (max-width: 414px) {
+	.wpdmi-form-label { min-width: auto; display: inline; }
+	.wpdmi-form-input { display:block; }
+	.wpdmi-form-input[name="height-inches"], .wpdmi-form-input[name="weight"], .wpdmi-form-input[name="height-feet"], .wpdmi-form-input[name="goal_weight"], .wpdmi-form-input[name="goal_rate"]
+		{ width: 50px; display: inline-block; }
+	#wpdmi-profile-form input[type="submit"] { margin-bottom:5px; }
+	.wpdmi-form-input[type="checkbox"], .wpdmi-form-input[type="radio"] { display:initial; }
+	input[type="submit"], .wpdmi-submit { display: block; margin: 0 auto; }
+}

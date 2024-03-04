@@ -1,0 +1,45 @@
+====================================================
+open log file: 2024-03-04 06:18:36
+[2024-03-04 06:18:36][notice]Start optimizing image id:1716
+[2024-03-04 06:18:36][notice]Start backing up image(s).
+[2024-03-04 06:18:36][notice]Start compressing image бицепс-300x300.jpg
+[2024-03-04 06:18:37][notice]Compressing image бицепс-300x300.jpg failed. Error:Need login
+[2024-03-04 06:18:37][notice]Start retrying optimization. Count:1
+[2024-03-04 06:18:37][notice]Start compressing image бицепс-300x300.jpg
+[2024-03-04 06:18:37][notice]Compressing image бицепс-300x300.jpg failed. Error:Need login
+[2024-03-04 06:18:37][notice]Start retrying optimization. Count:2
+[2024-03-04 06:18:37][notice]Start compressing image бицепс-300x300.jpg
+[2024-03-04 06:18:37][notice]Compressing image бицепс-300x300.jpg failed. Error:Need login
+[2024-03-04 06:18:37][notice]Start retrying optimization. Count:3
+[2024-03-04 06:18:37][error]Compressing image бицепс-300x300.jpg failed. Error:Need login
+[2024-03-04 06:18:37][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-03-04 06:20:03
+[2024-03-04 06:20:03][notice]Start optimizing image id:1718
+[2024-03-04 06:20:03][notice]Start backing up image(s).
+[2024-03-04 06:20:03][notice]Start compressing image ноги-300x240.jpg
+[2024-03-04 06:20:03][notice]Compressing image ноги-300x240.jpg failed. Error:Need login
+[2024-03-04 06:20:03][notice]Start retrying optimization. Count:1
+[2024-03-04 06:20:03][notice]Start compressing image ноги-300x240.jpg
+[2024-03-04 06:20:03][notice]Compressing image ноги-300x240.jpg failed. Error:Need login
+[2024-03-04 06:20:03][notice]Start retrying optimization. Count:2
+[2024-03-04 06:20:03][notice]Start compressing image ноги-300x240.jpg
+[2024-03-04 06:20:03][notice]Compressing image ноги-300x240.jpg failed. Error:Need login
+[2024-03-04 06:20:03][notice]Start retrying optimization. Count:3
+[2024-03-04 06:20:03][error]Compressing image ноги-300x240.jpg failed. Error:Need login
+[2024-03-04 06:20:03][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2024-03-04 06:22:35
+[2024-03-04 06:22:35][notice]Start optimizing image id:1719
+[2024-03-04 06:22:35][notice]Start backing up image(s).
+[2024-03-04 06:22:35][notice]Start compressing image спина-300x200.png
+[2024-03-04 06:22:35][notice]Compressing image спина-300x200.png failed. Error:Need login
+[2024-03-04 06:22:35][notice]Start retrying optimization. Count:1
+[2024-03-04 06:22:35][notice]Start compressing image спина-300x200.png
+[2024-03-04 06:22:35][notice]Compressing image спина-300x200.png failed. Error:Need login
+[2024-03-04 06:22:35][notice]Start retrying optimization. Count:2
+[2024-03-04 06:22:35][notice]Start compressing image спина-300x200.png
+[2024-03-04 06:22:35][notice]Compressing image спина-300x200.png failed. Error:Need login
+[2024-03-04 06:22:35][notice]Start retrying optimization. Count:3
+[2024-03-04 06:22:35][error]Compressing image спина-300x200.png failed. Error:Need login
+[2024-03-04 06:22:35][error]Optimizing image failed. Error:Need login

@@ -1,0 +1,1647 @@
+# Translation of Themes - Fitness FSE in Russian
+# This file is distributed under the same license as the Themes - Fitness FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-09 07:34:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Fitness FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Fitness Full site editing WordPress theme is a specifically designed for businesses in the health and wellness industry, such as spas, yoga studios, beauty salons, wellness centers, and natural healthcare providers. With this theme, you can easily create a professional and engaging website that resonates with your target audience and grows your business. Official Support Forum: https://sparklewpthemes.com/contact/ Demo: https://demo.sparkletheme.com/fitness-fse/"
+msgstr "Тема Fitness Full site editing WordPress специально разработана для компаний, работающих в сфере здравоохранения и велнеса, таких как спа-салоны, студии йоги, салоны красоты, оздоровительные центры и поставщики натуральных медицинских услуг. С помощью этой темы вы сможете легко создать профессиональный и увлекательный сайт, который найдет отклик у вашей целевой аудитории и будет способствовать развитию вашего бизнеса. Официальный форум поддержки: https://sparklewpthemes.com/contact/ Демонстрация: https://demo.sparkletheme.com/fitness-fse/"
+
+#. Theme Name of the theme
+#: style.css inc/core/block-patterns.php:20
+#, gp-priority: high
+msgid "Fitness FSE"
+msgstr "Fitness FSE"
+
+#: patterns/what-we-do.php
+msgctxt "Pattern title"
+msgid "What We Do"
+msgstr "Наша специализация"
+
+#: patterns/hero-section-2.php
+msgctxt "Pattern title"
+msgid "Hero Section #2"
+msgstr "Раздел Hero (тема дня) №2"
+
+#: patterns/about-us-new.php
+msgctxt "Pattern title"
+msgid "About Us #New"
+msgstr "О нас #Новое"
+
+#: inc/welcome/welcome.php:280
+msgid "Install Starter Plugin"
+msgstr "Установить стартовый плагин"
+
+#: inc/welcome/welcome.php:272
+msgid "Activate Starter Plugin"
+msgstr "Активировать стартовый плагин"
+
+#: inc/welcome/welcome.php:259
+msgid "Please leave us a %s rating if you like our theme . A huge thank you from SparkleThemes in advance!"
+msgstr "Оставьте нам оценку %s, если вам нравится наша тема. Заранее огромное спасибо от SparkleThemes!"
+
+#: inc/welcome/welcome.php:182
+msgid "Error! Reload the page and try again."
+msgstr "Ошибка! Перезагрузите страницу и повторите попытку."
+
+#: inc/welcome/welcome.php:180 inc/welcome/welcome.php:275
+msgid "Go to Starter Page"
+msgstr "Перейти на стартовую страницу"
+
+#: inc/welcome/welcome.php:179
+msgid "Activating Starter Plugin"
+msgstr "Активация стартового плагина"
+
+#: inc/welcome/welcome.php:178
+msgid "Installing Starter Plugin"
+msgstr "Установка стартового плагина"
+
+#: inc/welcome/welcome.php:147
+msgid "%s"
+msgstr "%s"
+
+#: inc/welcome/welcome.php:147
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: inc/welcome/welcome.php:138
+msgid "Action Failed. Something is Wrong."
+msgstr "Действие не удалось. Что-то не так."
+
+#: inc/welcome/welcome.php:127
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: inc/welcome/welcome.php:123
+msgid "Go to Setting Page"
+msgstr "Перейти на страницу настроек"
+
+#: inc/welcome/welcome.php:122
+msgid "Here you will find all the necessary links and information on how to use %s."
+msgstr "Здесь вы найдете все необходимые ссылки и информацию о том, как использовать %s."
+
+#: inc/welcome/welcome.php:121
+msgid "Get Started"
+msgstr "Начать"
+
+#: inc/welcome/welcome.php:113
+msgid "Click below to install and active One Click Demo Importer Plugin, It's help you to import demo."
+msgstr "Нажмите ниже, чтобы установить и активировать плагин One Click Demo Importer, который поможет вам импортировать демо-версии."
+
+#: inc/welcome/welcome.php:112
+msgid "Import Demo"
+msgstr "Импорт демонстрации"
+
+#: inc/welcome/welcome.php:105
+msgid "Fitness FSE Demo"
+msgstr "Демонстрация Fitness FSE"
+
+#: inc/welcome/welcome.php:101
+msgid "%1$s is now installed and ready to use. You can start either by importing the ready made demo or get started by customizing it your self."
+msgstr "%1$s уже установлен и готов к работе. Вы можете начать работу либо с импорта готовой демонстрации, либо с самостоятельной настройки."
+
+#: inc/welcome/welcome.php:100
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+#: inc/welcome/welcome.php:27
+msgid "Free Vs Pro"
+msgstr "Бесплатная или платная"
+
+#: inc/welcome/welcome.php:26
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/welcome/welcome.php:24
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: inc/welcome/sections/support.php:14
+msgid "Still, having problems after reading all the documentation? No Problem!! Please create a support ticket. Our dedicated support team will help you to solve your problem."
+msgstr "Вы все еще испытываете трудности после прочтения всей документации? Нет проблем!!! Пожалуйста, создайте заявку в службу поддержки. Наша специализированная служба поддержки поможет Вам решить Вашу проблему."
+
+#: inc/welcome/sections/support.php:13 inc/welcome/sections/support.php:15
+msgid "Create Support Tickets"
+msgstr "Создать тикет в службу поддержки"
+
+#: inc/welcome/sections/support.php:9
+msgid "Read Full Documentation"
+msgstr "Читать полную документацию"
+
+#. translators: Theme Name
+#: inc/welcome/sections/support.php:7
+msgid "Read our theme documentation. our documentation contains all the necessary information required to set up the %s theme with clean screenshout."
+msgstr "Ознакомьтесь с документацией по теме. В нашей документации содержится вся необходимая информация для установки темы %s с выводом на экран."
+
+#: inc/welcome/sections/support.php:3
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/welcome/sections/recommended_plugins.php:35
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: inc/welcome/sections/recommended_plugins.php:31
+msgid "Installed"
+msgstr "Установлено"
+
+#: inc/welcome/sections/recommended_plugins.php:28
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/welcome/sections/recommended_plugins.php:7
+msgid "Please install these free plugins. These plugins are complementary that adds more features to the theme."
+msgstr "Установите эти бесплатные плагины. Эти плагины дополняют друг друга, добавляя больше возможностей теме."
+
+#: inc/welcome/sections/recommended_plugins.php:6 inc/welcome/welcome.php:25
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/welcome/sections/header.php:40
+msgid "Upgrade for $59"
+msgstr "Обновление за $59"
+
+#. translators: 1-theme name
+#: inc/welcome/sections/header.php:37
+msgid "Unlock all the possibilities with %1$s Pro"
+msgstr "Раскройте все возможности с %1$s Pro"
+
+#: inc/welcome/sections/header.php:19
+msgid "Starter Templates"
+msgstr "Стартовые шаблоны"
+
+#: inc/welcome/sections/header.php:18
+msgid "Customize"
+msgstr "Настроить"
+
+#. translators: 1-theme name
+#: inc/welcome/sections/header.php:13
+msgid "Welcome and thank you for installing %1$s. %1$s is a clean, beautiful and fully customizable responsive modern free Multipurpose WordPress theme. And of course, the premium version for additional features and better supports."
+msgstr "Добро пожаловать и спасибо за установку %1$s. %1$s - это чистая, красивая и полностью настраиваемая, современная бесплатная многоцелевая тема WordPress. И, конечно же, премиум-версия с дополнительными функциями и лучшей поддержкой."
+
+#. translators: 1-theme name, 2-theme version
+#: inc/welcome/sections/header.php:6
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Добро пожаловать в %1$s - Версия %2$s"
+
+#: inc/welcome/sections/getting_started.php:24
+msgid "Click on the button below to install and activate the One Click Demo Importer Plugin."
+msgstr "Нажав на кнопку ниже, вы установите и активируете плагин One Click Demo Importer."
+
+#: inc/welcome/sections/getting_started.php:23
+msgid "Or you can get started by importing the demo with just one click."
+msgstr "Или можно приступить к работе, импортировав демонстрацию одним щелчком мыши."
+
+#: inc/welcome/sections/getting_started.php:19
+msgid "%s Demo"
+msgstr "Демонстрация %s"
+
+#: inc/welcome/sections/getting_started.php:17
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/welcome/sections/getting_started.php:11
+msgid "Now go to Appearance &gt; Customize &gt; Homepage Settings and choose \"A static page\" for \"Your latest posts\" and select the created page for \"Home Page\" option."
+msgstr "Теперь перейдите в меню Внешний вид > Настройка темы > Настройки главной страницы и выберите \"Статическую страницу\" для \"Ваши последние записи\" и выберите созданную страницу для опции \"Главная страница\"."
+
+#: inc/welcome/sections/getting_started.php:10
+msgid "Create a new page and edit with Elementor. Drag and drop the elements in the Elementor to create your own design."
+msgstr "Создайте новую страницу и отредактируйте ее с помощью Elementor. Перетащите элементы в Elementor, чтобы создать собственный дизайн."
+
+#: inc/welcome/sections/getting_started.php:9
+msgid "Recommended Plugin page."
+msgstr "Страница рекомендуемых плагинов."
+
+#: inc/welcome/sections/getting_started.php:9
+msgid "Firstly install and activate \"Elementor Website Builder\" plugin from"
+msgstr "Сначала установите и активируйте плагин «Elementor Website Builder» из"
+
+#: inc/welcome/sections/getting_started.php:7
+msgid "FROM ELEMENTOR"
+msgstr "ИЗ ELEMENTOR"
+
+#: inc/welcome/sections/getting_started.php:5
+msgid "If you want to change default homage page with your own created page, Go to settings > reading and set your page."
+msgstr "Если вы хотите изменить стандартную главную страницу на свою собственную созданную страницу, перейдите в настройки > чтение и установите свою страницу."
+
+#: inc/welcome/sections/getting_started.php:3
+msgid "Manual Setup"
+msgstr "Установка вручную"
+
+#: inc/welcome/sections/free_vs_pro.php:194
+msgid "For Premium theme, the user will get a reply in 10 hours or less."
+msgstr "Для премиум-темы пользователь получит ответ в течение 10 часов или меньше."
+
+#: inc/welcome/sections/free_vs_pro.php:193
+msgid "Fast and Friendly Support"
+msgstr "Быстрая и доброжелательная поддержка"
+
+#: inc/welcome/sections/free_vs_pro.php:186
+msgid "SEO refers to search engine optimization, or the process of optimizing a website so that people can easily find it via search engines like Google."
+msgstr "SEO означает оптимизацию для поисковых систем, или процесс оптимизации сайта, чтобы люди могли легко найти его через поисковые системы, такие как Google."
+
+#: inc/welcome/sections/free_vs_pro.php:185
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: inc/welcome/sections/free_vs_pro.php:178
+msgid "Adapts to any screen size and display beautifully."
+msgstr "Адаптируется под любой размер экрана и отображается красиво."
+
+#: inc/welcome/sections/free_vs_pro.php:177
+msgid "Responsive - Mobile Friendly"
+msgstr "Адаптивный – оптимизирован для мобильных"
+
+#: inc/welcome/sections/free_vs_pro.php:170
+msgid "The website shows good and runs smoothly in all major browsers."
+msgstr "Сайт хорошо отображается и работает во всех основных браузерах."
+
+#: inc/welcome/sections/free_vs_pro.php:169
+msgid "Major Browser Compatible"
+msgstr "Совместимость с основными браузерами"
+
+#: inc/welcome/sections/free_vs_pro.php:162
+msgid "Follows best SEO practices so that your website always rank higher in Search Engines."
+msgstr "Соблюдение лучших SEO-практик позволяет вашему сайту всегда занимать более высокие позиции в поисковых системах."
+
+#: inc/welcome/sections/free_vs_pro.php:161
+msgid "Search Engine Optimization"
+msgstr "Оптимизация поисковой системы"
+
+#: inc/welcome/sections/free_vs_pro.php:154
+msgid "Both free and pro version are fully translation ready."
+msgstr "Как бесплатная, так и профессиональная версии полностью готовы к переводу."
+
+#: inc/welcome/sections/free_vs_pro.php:153
+msgid "Translation Ready"
+msgstr "Готова к переводу"
+
+#: inc/welcome/sections/free_vs_pro.php:145
+msgid "The premium version has custom team member with team detials like positions, social icon."
+msgstr "В премиум-версии есть собственный член команды с такими сведениями о команде, как должности, значок соцсети."
+
+#: inc/welcome/sections/free_vs_pro.php:144
+msgid "Our Team Member Area"
+msgstr "Зона участников нашей команды"
+
+#: inc/welcome/sections/free_vs_pro.php:136
+msgid "Display WooCommerce Product in an attractive way display product image, time, product details and price."
+msgstr "Отображение товара WooCommerce в привлекательном виде, показывая изображение товара, время, детали товара и цену."
+
+#: inc/welcome/sections/free_vs_pro.php:135
+msgid "WooCommerce Section"
+msgstr "Раздел Woocommerce"
+
+#: inc/welcome/sections/free_vs_pro.php:128
+msgid "The premium Version has enhanced WooCommerce options like adding cart icon in the menu, product page settings, sidebar layout settings and more."
+msgstr "Премиум-версия имеет расширенные возможности WooCommerce, такие как добавление значка корзины в меню, настройки страницы товара, настройки макета боковой панели и многое другое."
+
+#: inc/welcome/sections/free_vs_pro.php:127
+msgid "WooCommerce Compatible"
+msgstr "Совместимо с WooCommerce"
+
+#: inc/welcome/sections/free_vs_pro.php:120
+msgid "The premium version has the option to change the sidebar layout universally or change the sidebar for individual post/page. Moreover, it allows choosing the sidebar widgets for individual post/page."
+msgstr "Премиум-версия имеет возможность изменить макет боковой панели для всех или изменить боковую панель для отдельной записи/страницы. Кроме того, он позволяет выбирать виджеты боковой панели для отдельной записи/страницы."
+
+#: inc/welcome/sections/free_vs_pro.php:119
+msgid "Sidebar Layout Options"
+msgstr "Параметры макета боковой панели"
+
+#: inc/welcome/sections/free_vs_pro.php:112
+msgid "The premium version has the option to change the breadcrumb layout and options to change background image or background color and many more."
+msgstr "Премиум-версия имеет возможность изменить макет навигационной цепочки, а также изменить фоновое изображение или цвет фона и многое другое."
+
+#: inc/welcome/sections/free_vs_pro.php:111
+msgid "Breadcrumb Layout and Option"
+msgstr "Макет и опция навигационной цепочки"
+
+#: inc/welcome/sections/free_vs_pro.php:104
+msgid "The premium version easily allows to remove or change the footer credit text."
+msgstr "Премиум-версия позволяет легко удалить или изменить текст благодарности в футере."
+
+#: inc/welcome/sections/free_vs_pro.php:103
+msgid "Remove Footer Credit Text"
+msgstr "Удалить текст благодарностей в подвале"
+
+#: inc/welcome/sections/free_vs_pro.php:96
+msgid "The loading screen that appears until the website is fully loaded. The premium version has the option to choose from 16 preloaders or add your own preloader image as well."
+msgstr "Экран загрузки, который появляется, пока сайт полностью загружается. В премиум-версии есть возможность выбрать из 16 анимации загрузки или добавить свое собственное изображение загрузчика."
+
+#: inc/welcome/sections/free_vs_pro.php:95
+msgid "PreLoader Option"
+msgstr "Параметры анимации загрузки"
+
+#: inc/welcome/sections/free_vs_pro.php:88
+msgid "Our premium themes allow you to create ‘under construction‘ and ‘coming soon‘ page in the simplest way and easily customize the design as per your need."
+msgstr "Наши премиум темы позволяют вам создавать страницы 'в разработке' и 'скоро открытие' самым простым способом и легко настраивать дизайн в соответствии с вашими потребностями."
+
+#: inc/welcome/sections/free_vs_pro.php:87
+msgid "Included Maintenance Mode"
+msgstr "Включен режим обслуживания"
+
+#: inc/welcome/sections/free_vs_pro.php:81
+msgid "All our premium themes are GDPR compliant, so you don’t have to stress any warning, suspension, or legal lawsuit. We have added necessary GDPR enhancements to make sure all our themes are GDPR complaints."
+msgstr "Все наши премиум темы соответствуют требованиям GDPR, поэтому вам не нужно беспокоиться о предупреждениях, приостановках или юридических исках. Мы добавили необходимые улучшения в соответствии с GDPR, чтобы убедиться, что все наши темы соответствуют требованиям GDPR."
+
+#: inc/welcome/sections/free_vs_pro.php:80
+msgid "GDPR Compliance & Cookies Consent"
+msgstr "Соответствие GDPR и согласие на использование файлов cookie"
+
+#: inc/welcome/sections/free_vs_pro.php:75
+msgid "30+ Patterns"
+msgstr "Более 30 паттернов"
+
+#: inc/welcome/sections/free_vs_pro.php:74
+msgid "10+ Patterns"
+msgstr "Более 10 паттернов"
+
+#: inc/welcome/sections/free_vs_pro.php:73
+msgid "The free includes simple patterns and pro version you will get advance patterns"
+msgstr "Бесплатная версия включает простые паттерны, а в профессиональной версии вы получите продвинутые паттерны"
+
+#: inc/welcome/sections/free_vs_pro.php:72
+msgid "Patterns"
+msgstr "Паттерны"
+
+#: inc/welcome/sections/free_vs_pro.php:66
+msgid "Construction Light comes with an option for the top bar where you can add contact address, social icon, nav menu."
+msgstr "В комплект поставки Construction Light входит опция для верхней панели, в которую можно добавить контактный адрес, значки соцсети, навигационное меню."
+
+#: inc/welcome/sections/free_vs_pro.php:65
+msgid "Advanced Top Header Settings"
+msgstr "Расширенные настройки верхнего заголовка"
+
+#: inc/welcome/sections/free_vs_pro.php:61
+#: inc/welcome/sections/free_vs_pro.php:114
+#: inc/welcome/sections/free_vs_pro.php:122
+#: inc/welcome/sections/free_vs_pro.php:130
+#: inc/welcome/sections/free_vs_pro.php:138
+msgid "Advanced"
+msgstr "Расширенный"
+
+#: inc/welcome/sections/free_vs_pro.php:59
+msgid "The free version has a basic color option but the premium version has advanced color options that allow customizing the color theme primary colors."
+msgstr "Бесплатная версия имеет базовый вариант цвета, но премиум-версия имеет расширенные варианты цвета, которые позволяют настраивать основные цвета пользовательской темы."
+
+#: inc/welcome/sections/free_vs_pro.php:58
+msgid "Unlimited Color Options"
+msgstr "Неограниченная цветовая палитра"
+
+#: inc/welcome/sections/free_vs_pro.php:52
+msgid "The premium version gives the option to choose from 6 header layout. Additionally, it allows changing the header background color, text color, header height and more."
+msgstr "Премиум-версия предоставляет возможность выбора из 6 вариантов разметки заголовка. Кроме того, она позволяет изменять цвет фона заголовка, цвет текста, высоту заголовка и многое другое."
+
+#: inc/welcome/sections/free_vs_pro.php:51
+msgid "Multiple Header Layouts and Settings"
+msgstr "Несколько макетов и настроек заголовков"
+
+#: inc/welcome/sections/free_vs_pro.php:46
+msgid "Advance"
+msgstr "Дополнительно"
+
+#: inc/welcome/sections/free_vs_pro.php:45
+#: inc/welcome/sections/free_vs_pro.php:60
+#: inc/welcome/sections/free_vs_pro.php:113
+#: inc/welcome/sections/free_vs_pro.php:121
+#: inc/welcome/sections/free_vs_pro.php:129
+#: inc/welcome/sections/free_vs_pro.php:137
+msgid "Basic"
+msgstr "Базовый"
+
+#: inc/welcome/sections/free_vs_pro.php:44
+msgid "We have our own theme setup steps, you just click on settings and next we do all process in background."
+msgstr "У нас есть собственные шаги по настройке темы: вы просто нажимаете на настройки, а затем мы выполняем все процессы в фоновом режиме."
+
+#: inc/welcome/sections/free_vs_pro.php:43
+msgid "Easy Installation Process"
+msgstr "Простой процесс установки"
+
+#: inc/welcome/sections/free_vs_pro.php:38
+msgid "10+ Demos"
+msgstr "Более 10 демонстраций"
+
+#: inc/welcome/sections/free_vs_pro.php:37
+msgid "1 Demo Only"
+msgstr "Только 1 демонстрация"
+
+#: inc/welcome/sections/free_vs_pro.php:36
+msgid "With one click demo-import, you can install the demo content with just one click."
+msgstr "С помощью демо-импорта одним щелчком мыши вы можете установить демонстрационный контент одним щелчком мыши."
+
+#: inc/welcome/sections/free_vs_pro.php:35
+msgid "One Click Demo Import"
+msgstr "Импортировать демонстрацию в один клик"
+
+#: inc/welcome/sections/free_vs_pro.php:31
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/welcome/sections/free_vs_pro.php:30
+msgid "Free"
+msgstr "Бесплатно"
+
+#: inc/welcome/sections/free_vs_pro.php:29
+msgid "Features"
+msgstr "Функции"
+
+#: inc/welcome/sections/free_vs_pro.php:25
+#: inc/welcome/sections/free_vs_pro.php:204
+msgid "Buy Now ($59 only)"
+msgstr "Купить сейчас (только $59)"
+
+#: inc/welcome/sections/free_vs_pro.php:22
+#: inc/welcome/sections/free_vs_pro.php:201
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr "Обновите до про версии, чтобы получить дополнительные функции и лучшую поддержку."
+
+#: inc/welcome/sections/free_vs_pro.php:21
+#: inc/welcome/sections/free_vs_pro.php:200
+msgid "Upgrade to Pro"
+msgstr "Обновиться до Pro"
+
+#: inc/welcome/sections/free_vs_pro.php:14
+msgid "Keep up to date"
+msgstr "Будь в курсе"
+
+#: inc/welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFETIME"
+msgstr "БЕСПЛАТНЫЕ ОБНОВЛЕНИЯ ПОЖИЗНЕННО"
+
+#: inc/welcome/sections/free_vs_pro.php:9
+msgid "Use in as many websites as you need"
+msgstr "Используйте на любом количестве сайтов"
+
+#: inc/welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr "БЕСКОНЕЧНАЯ ЛИЦЕНЗИЯ НА ДОМЕН"
+
+#: inc/welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr "Нет необходимости в продлении"
+
+#: inc/welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr "ОДНОРАЗОВЫЙ ПЛАТЕЖ"
+
+#: inc/welcome/sections/footer.php:7
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: inc/welcome/sections/footer.php:4
+msgid "With %s Pro theme you can create a beautiful website. But if you want to unlock more possibilities then upgrade to the premium version, Try the Premium version and check if it fits your need or not. If not, we have 14 days money-back guarantee."
+msgstr "С темой %s Pro вы можете создать красивый сайт. Но если вы хотите открыть больше возможностей, обновитесь до премиум-версии. Попробуйте премиум-версию и проверьте, соответствует она вашим потребностям или нет. В противном случае у нас есть 14-дневная гарантия возврата денег."
+
+#: inc/welcome/sections/footer.php:3
+msgid "Upgrade To Premium Version (14 Days Money Back Guarantee)"
+msgstr "Обновите до Премиум-версии (14-дневная гарантия возврата денег)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Three"
+msgstr "3-й заголовок"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Two"
+msgstr "2-й заголовок"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Product Catalog"
+msgstr "Каталог товаров"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Products by Category"
+msgstr "Товары по категории"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Products by Tag"
+msgstr "Товары по метке"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr "Страница (без заголовка/функционального изображения)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr "Первичный и третичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr "Первичный и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr "Первичный и фоновый"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Передний план и третичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Передний план и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Передний план и фон"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr "От диагонального фонового к третичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr "От диагонального третичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr "От диагонального фонового к вторичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background right"
+msgstr "От диагонального вторичного к фоновому, справа"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background left"
+msgstr "От диагонального вторичного к фоновому, слева"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr "От диагонального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr "От диагонального первичного к переднему плану"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr "От вертикального третичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to secondary"
+msgstr "От вертикального фонового к вторичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr "От вертикального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr "От вертикального вторичного к третичному"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Pink"
+msgstr "Розовый"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Hexadecimal"
+msgstr "Шестнадцатеричный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Lite Red"
+msgstr "Светло-красный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Purple"
+msgstr "Тёмно-фиолетовый"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Purple"
+msgstr "Пурпурный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Lite Green"
+msgstr "Светло-зеленый"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Green"
+msgstr "Тёмно-зелёный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sky Blue"
+msgstr "Небесно-голубой"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Blue"
+msgstr "Темно-синий"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Cyan"
+msgstr "Голубой"
+
+#: theme.json
+msgctxt "Color name"
+msgid "coffee"
+msgstr "кофе"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Boulder"
+msgstr "Boulder"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Input Field"
+msgstr "Поле ввода"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr "Рамка"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Link"
+msgstr "Текстовая ссылка"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Основной текст"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr "Вторичный фон"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Первичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Arizonia"
+msgstr "Arizonia"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Oswold"
+msgstr "Oswold"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Системный шрифт"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Huge"
+msgstr "Очень огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Slider Title"
+msgstr "Заголовок слайдера"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Заголовок содержимого"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: patterns/video-call-to-action.php
+msgctxt "Pattern title"
+msgid "Video Call To Action"
+msgstr "Видео призыв к действию"
+
+#: patterns/trainers.php
+msgctxt "Pattern title"
+msgid "Trainers"
+msgstr "Тренеры"
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team Member"
+msgstr "Член команды"
+
+#: patterns/team-2.php
+msgctxt "Pattern title"
+msgid "Team Member #2"
+msgstr "Член команды №2"
+
+#: patterns/steps-4.php
+msgctxt "Pattern title"
+msgid "Steps 4"
+msgstr "Шаги 4"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr "Основная боковая панель"
+
+#: patterns/service-two.php
+msgctxt "Pattern title"
+msgid "Services Style Two"
+msgstr "2-й стиль услуг"
+
+#: patterns/service-three.php
+msgctxt "Pattern title"
+msgid "Services Style Three"
+msgstr "3-й стиль услуг"
+
+#: patterns/service-one.php
+msgctxt "Pattern title"
+msgid "Services Style One"
+msgstr "1-й стиль услуг"
+
+#: patterns/section-title.php
+msgctxt "Pattern title"
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: patterns/section-title-two.php
+msgctxt "Pattern title"
+msgid "Section Title Style Two"
+msgstr "2-й стиль заголовка раздела"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Поиск"
+
+#: patterns/pricing.php
+msgctxt "Pattern title"
+msgid "Pricing"
+msgstr "Ценообразование"
+
+#: patterns/portfolio.php
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: patterns/play-icon.php
+msgctxt "Pattern title"
+msgid "Play Icon"
+msgstr "Значок воспроизведения"
+
+#: patterns/planning.php
+msgctxt "Pattern title"
+msgid "Planning Steps"
+msgstr "Планирование шагов"
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: patterns/latest-news-alternative.php
+msgctxt "Pattern title"
+msgid "Latest News Alternative"
+msgstr "Последние альтернативные новости"
+
+#: patterns/home-page.php
+msgctxt "Pattern title"
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "Скрытая 404"
+
+#: patterns/hero-section.php
+msgctxt "Pattern title"
+msgid "Hero Section"
+msgstr "Раздел Hero"
+
+#: patterns/header-two.php
+msgctxt "Pattern title"
+msgid "Header Style Two"
+msgstr "2-й стиль заголовка"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Заголовок по умолчанию"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Подвал по умолчанию"
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Hover Features"
+msgstr "Функции наведения"
+
+#: patterns/cover-with-post-title.php
+msgctxt "Pattern title"
+msgid "Cover With Post Title"
+msgstr "Обложка с заголовком записи"
+
+#: patterns/cover-with-archive-title.php
+msgctxt "Pattern title"
+msgid "Cover With Arcive Title"
+msgstr "Обложка с заголовком архива"
+
+#: patterns/cover-small-title.php
+msgctxt "Pattern title"
+msgid "Cover Small Title"
+msgstr "Маленький заголовок на обложке"
+
+#: patterns/contact.php
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr "Контакт"
+
+#: patterns/clients.php
+msgctxt "Pattern title"
+msgid "Clients"
+msgstr "Клиенты"
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+#: patterns/about-us.php
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr "О нас"
+
+#: patterns/about-us-video.php
+msgctxt "Pattern title"
+msgid "About Us #3 ( Video )"
+msgstr "О нас №3 (видео)"
+
+#: patterns/about-us-2.php
+msgctxt "Pattern title"
+msgid "About Us #2"
+msgstr "О нас №2"
+
+#: patterns/video-call-to-action.php:36
+msgid "Quickly incubate services platforms with 24/7 platforms. Progressively whiteboard enterprise information and one-to-one deliverables."
+msgstr "Быстро развивайте сервисные платформы с помощью платформ, работающих круглосуточно и без выходных. Постепенное размещение корпоративной информации на доске и индивидуальных результатов."
+
+#: patterns/video-call-to-action.php:28
+msgid "Keep Going With Your Passion"
+msgstr "Продолжайте следовать своей страсти"
+
+#: patterns/video-call-to-action.php:24
+msgid "Video Tutorial For You"
+msgstr "Видеоурок для вас"
+
+#: patterns/video-call-to-action.php:15
+msgid "P"
+msgstr "P"
+
+#: patterns/trainers.php:78
+msgid "Cardio"
+msgstr "Кардио"
+
+#: patterns/trainers.php:34
+msgid "View More Trainers"
+msgstr "Посмотреть больше тренеров"
+
+#: patterns/trainers.php:29
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud"
+
+#: patterns/trainers.php:25
+msgid "We Offer Body Changes Classes"
+msgstr "Мы предлагаем занятия по изменению фигуры"
+
+#: patterns/trainers.php:20
+msgid "WE ARE ALWAYS FOCUSED ON"
+msgstr "МЫ ВСЕГДА СОСРЕДОТОЧЕНЫ НА"
+
+#: patterns/testimonial.php:57 patterns/testimonial.php:83
+msgid "Best Theme For FSE"
+msgstr "Лучшая тема для FSE"
+
+#: patterns/testimonial.php:56 patterns/testimonial.php:82
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem"
+
+#: patterns/testimonial.php:50 patterns/testimonial.php:76
+msgid "Founder, CEO"
+msgstr "Основатель, ген. директор"
+
+#: patterns/testimonial.php:46 patterns/testimonial.php:72
+msgid "Johan Deo"
+msgstr "Johan Deo"
+
+#: patterns/testimonial.php:20
+msgid "incididunt ut labore et dolore magna aliqua"
+msgstr "incididunt ut labore et dolore magna aliqua"
+
+#: patterns/testimonial.php:16
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+
+#: patterns/testimonial.php:11
+msgid "Client's Testimonials"
+msgstr "Отзывы клиентов"
+
+#: patterns/team.php:36 patterns/team.php:64 patterns/team.php:92
+msgid "Gym Trainer"
+msgstr "Тренер тренажерного зала"
+
+#: patterns/team.php:12
+msgid "Our Experts"
+msgstr "Наши эксперты"
+
+#: patterns/team-2.php:121 patterns/team-2.php:219 patterns/team-2.php:317
+msgid "Chief Marketing Officer"
+msgstr "Ген. директор"
+
+#: patterns/team-2.php:117 patterns/team-2.php:215
+msgid "Dennis Norris"
+msgstr "Dennis Norris"
+
+#: patterns/team-2.php:97 patterns/team-2.php:195 patterns/team-2.php:293
+msgid "Sales and Marketing"
+msgstr "Отдел продаж и маркетинга"
+
+#: patterns/team-2.php:93 patterns/team-2.php:191 patterns/team-2.php:289
+msgid "Ashley Hardy"
+msgstr "Ashley Hardy"
+
+#: patterns/team-2.php:73 patterns/team-2.php:171 patterns/team-2.php:269
+msgid "Chief Finance Officer"
+msgstr "Главный фин. директор"
+
+#: patterns/team-2.php:69 patterns/team-2.php:167 patterns/team-2.php:265
+msgid "Clark Roberts"
+msgstr "Clark Roberts"
+
+#: patterns/team-2.php:49 patterns/team-2.php:147 patterns/team-2.php:245
+msgid "Founder &amp; CEO"
+msgstr "Основатель и ген директор"
+
+#: patterns/team-2.php:45 patterns/team-2.php:143 patterns/team-2.php:241
+msgid "Justin Hammer"
+msgstr "Justin Hansen"
+
+#: patterns/team-2.php:25
+msgid "Our Professional Export"
+msgstr "Наш профессиональный экспорт"
+
+#: patterns/team-2.php:20
+msgid "Meet Our Export"
+msgstr "Познакомьтесь с нашим экспертом"
+
+#: patterns/steps-4.php:25
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+
+#: patterns/steps-4.php:20
+msgid "Burn Calories While Having Fun"
+msgstr "Сжигайте калории, веселясь"
+
+#: patterns/service-two.php:125
+msgid "Aesthetic Of Body"
+msgstr "Эстетика тела"
+
+#: patterns/service-two.php:103
+msgid "Personal Trainer"
+msgstr "Персональный тренер"
+
+#: patterns/service-two.php:79 patterns/trainers.php:54
+msgid "Trademill"
+msgstr "Тренажерная дорожка"
+
+#: patterns/service-two.php:43 patterns/service-two.php:87
+#: patterns/service-two.php:111 patterns/service-two.php:133
+#: patterns/service-two.php:155
+msgid "Know More"
+msgstr "Узнать больше"
+
+#: patterns/service-two.php:39 patterns/service-two.php:61
+#: patterns/service-two.php:83 patterns/service-two.php:129
+#: patterns/service-two.php:151
+msgid "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+msgstr "Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+
+#: patterns/service-two.php:35 patterns/team.php:32 patterns/team.php:60
+#: patterns/team.php:88
+msgid "Skipping Rope"
+msgstr "Скакалка"
+
+#: patterns/service-two.php:14
+msgid "SET HIGH FITNESS GOALS"
+msgstr "ПОСТАВЬТЕ ВЫСОКИЕ ЦЕЛИ В ФИТНЕСЕ"
+
+#: patterns/service-three.php:90
+msgid "Be Patience.."
+msgstr "Будь терпеливым.."
+
+#: patterns/service-three.php:62
+msgid "Discipline"
+msgstr "Дисциплина"
+
+#: patterns/service-three.php:39 patterns/service-three.php:67
+#: patterns/service-three.php:95
+msgid "Lorem Ipsn gravida nibh vel velit auctor aliqunean sollicitudinlorem quis bibendum auci elit quis aliqunean"
+msgstr "Lorem Ipsn gravida nibh vel velit auctor aliqunean sollicitudinlorem quis bibendum auci elit quis aliqunean"
+
+#: patterns/service-three.php:34
+msgid "Workout Everyday"
+msgstr "Тренируйся каждый день"
+
+#: patterns/service-three.php:13
+msgid "TAKE CARE OF YOUR LIFE"
+msgstr "ПОЗАБОТИТЬСЯ О СВОЕЙ ЖИЗНИ"
+
+#: patterns/service-one.php:106
+msgid "Morning Walk"
+msgstr "Утренняя прогулка"
+
+#: patterns/service-one.php:80
+msgid "Yoga Class"
+msgstr "Занятия йогой"
+
+#: patterns/service-one.php:60
+msgid "Gym Class"
+msgstr "Урок физкультуры"
+
+#: patterns/service-one.php:38 patterns/service-one.php:64
+#: patterns/service-one.php:84 patterns/service-one.php:110
+#: patterns/team.php:17
+msgid "Our state of the art gyms provide you with a great place to work out in, whether you are there to burn off some calories or are training for something more specific"
+msgstr "Наши современные спортзалы предоставляют вам отличное место для тренировок, будь то сжигание калорий или подготовка к чему-то более конкретному"
+
+#: patterns/service-one.php:34
+msgid "Cardio Class"
+msgstr "Кардио-занятия"
+
+#: patterns/service-one.php:17
+msgid "What We Offer For Our Clients"
+msgstr "Что мы предлагаем нашим клиентам"
+
+#: patterns/service-one.php:13
+msgid "OUR SERVICES"
+msgstr "НАШИ УСЛУГИ"
+
+#: patterns/section-title-two.php:28 patterns/section-title.php:24
+msgid "Section Main Title Here"
+msgstr "Основное заголовок раздела здесь"
+
+#: patterns/section-title-two.php:17 patterns/section-title.php:19
+msgid "Section Sub Title Here"
+msgstr "Подзаголовок раздела здесь"
+
+#: patterns/pricing.php:127
+msgid "$400/month"
+msgstr "$400/мес"
+
+#: patterns/pricing.php:122
+msgid "Platinum"
+msgstr "Платиновый"
+
+#: patterns/pricing.php:83
+msgid "$300&nbsp;/month"
+msgstr "$300/мес"
+
+#: patterns/pricing.php:78
+msgid "Premium"
+msgstr "Премиум"
+
+#: patterns/pricing.php:63 patterns/pricing.php:107 patterns/pricing.php:151
+msgid "Join Now!"
+msgstr "Присоединяйтесь сейчас!"
+
+#: patterns/pricing.php:53 patterns/pricing.php:97 patterns/pricing.php:141
+msgid "Gym Fitness"
+msgstr "Фитнес-зал"
+
+#: patterns/pricing.php:49 patterns/pricing.php:93 patterns/pricing.php:137
+msgid "Free Hand"
+msgstr "Свободная рука"
+
+#: patterns/pricing.php:45 patterns/pricing.php:89 patterns/pricing.php:133
+msgid "Yoga"
+msgstr "Йога"
+
+#: patterns/pricing.php:39
+msgid "$200&nbsp;/month"
+msgstr "$200/мес"
+
+#: patterns/pricing.php:34
+msgid "Standard"
+msgstr "Стадартный"
+
+#: patterns/pricing.php:20
+msgid "We have different plans to accommodate your need."
+msgstr "У нас есть разные планы, чтобы удовлетворить ваши потребности."
+
+#: patterns/pricing.php:16
+msgid "Pricing &amp; Plan"
+msgstr "Цены и план"
+
+#: patterns/portfolio.php:142 patterns/portfolio.php:236
+#: patterns/portfolio.php:292
+msgid "Committed and creative"
+msgstr "Целеустремленный и творческий"
+
+#: patterns/portfolio.php:86 patterns/portfolio.php:126
+#: patterns/portfolio.php:182 patterns/portfolio.php:220
+#: patterns/portfolio.php:276 patterns/portfolio.php:330
+msgid "Somewhere on earth"
+msgstr "Где-то на земле"
+
+#: patterns/portfolio.php:82 patterns/portfolio.php:122
+#: patterns/portfolio.php:178 patterns/portfolio.php:216
+#: patterns/portfolio.php:272 patterns/portfolio.php:326
+msgid "Office"
+msgstr "Офис"
+
+#: patterns/portfolio.php:68 patterns/portfolio.php:108
+#: patterns/portfolio.php:164 patterns/portfolio.php:202
+#: patterns/portfolio.php:258 patterns/portfolio.php:312
+msgid "Trust pays off"
+msgstr "Доверие окупается"
+
+#: patterns/portfolio.php:64 patterns/portfolio.php:104
+#: patterns/portfolio.php:160 patterns/portfolio.php:198
+#: patterns/portfolio.php:254 patterns/portfolio.php:308
+#: patterns/pricing.php:57 patterns/pricing.php:101 patterns/pricing.php:145
+msgid "Running"
+msgstr "Выполняется"
+
+#: patterns/portfolio.php:48
+msgid "House Construction"
+msgstr "Строительство дома"
+
+#: patterns/portfolio.php:44 patterns/portfolio.php:138
+#: patterns/portfolio.php:232 patterns/portfolio.php:288
+msgid "Walking"
+msgstr "Ходьба"
+
+#: patterns/portfolio.php:25
+msgid "AWESOME PORTFOLIO"
+msgstr "ПОТРЯСАЮЩЕЕ ПОРТФОЛИО"
+
+#: patterns/portfolio.php:20
+msgid "Recent Work"
+msgstr "Недавняя работа"
+
+#: patterns/planning.php:104
+msgid "of quieting the mind"
+msgstr "успокоения ума"
+
+#: patterns/planning.php:100
+msgid "Yoga is the practice"
+msgstr "Йога – это практика"
+
+#: patterns/planning.php:77
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+
+#: patterns/planning.php:72
+msgid "SPIRITUAL PATH"
+msgstr "ДУХОВНЫЙ ПУТЬ"
+
+#: patterns/planning.php:68
+msgid "CHOOSE YOUR"
+msgstr "ВЫБЕРИ СВОЙ"
+
+#: patterns/planning.php:34 patterns/planning.php:82 patterns/planning.php:114
+#: patterns/service-three.php:44 patterns/service-three.php:72
+#: patterns/service-three.php:100 patterns/steps-4.php:30
+msgid "Read More"
+msgstr "Читать далее"
+
+#: patterns/planning.php:24
+msgid "move so move it"
+msgstr "движения, так двигайте им"
+
+#: patterns/planning.php:20
+msgid "Your body is made to"
+msgstr "Ваше тело создано для"
+
+#: patterns/latest-news-alternative.php:25 patterns/latest-news.php:25
+msgid "Recent News"
+msgstr "Свежие новости"
+
+#: patterns/latest-news-alternative.php:20 patterns/latest-news.php:20
+msgid "From Our Blog"
+msgstr "Из нашего блога"
+
+#: patterns/hidden-404.php:20
+msgid "Could not be found. Maybe try a search?"
+msgstr "Не удалось найти. Можете попробовать поиск?"
+
+#: patterns/hidden-404.php:12
+msgid "0"
+msgstr "0"
+
+#: patterns/hidden-404.php:12
+msgid "4"
+msgstr "4"
+
+#: patterns/hero-section.php:33
+msgid "Book Now"
+msgstr "Забронировать сейчас"
+
+#: patterns/hero-section.php:26
+msgid "whether you are there to burn off some calories or are training for something"
+msgstr "независимо от того, идете ли вы туда, чтобы сжечь калории или тренируетесь для чего-то"
+
+#: patterns/hero-section.php:22
+msgid "Our state of the art gyms provide you with a great place to work out in,"
+msgstr "Наши современные спортзалы предоставляют вам отличное место для тренировок,"
+
+#: patterns/hero-section.php:18
+msgid "What The Mind Beleive"
+msgstr "Во что верит разум"
+
+#: patterns/hero-section.php:14
+msgid "THE BODY ACHIEVES THE BODY"
+msgstr "ТЕЛО ДОБИВАЕТСЯ ТЕЛА"
+
+#: patterns/header-default.php:106
+msgid "Appointment"
+msgstr "Запись"
+
+#: patterns/header-default.php:79
+msgid "&nbsp;Need Free Consultation?"
+msgstr "Нужна бесплатная консультация?"
+
+#: patterns/header-default.php:61
+msgid "Office : Your Location"
+msgstr "Офис: Ваше местоположение"
+
+#: patterns/header-default.php:41
+msgid "Opening :&nbsp;Sun-Thu   9am - 6pm"
+msgstr "Открытие: Вс-Чт 9:00 - 18:00"
+
+#: patterns/footer-default.php:123
+msgid "Fall River MA 2721"
+msgstr "Fall River MA 2721"
+
+#: patterns/footer-default.php:123
+msgid "3994 William S Canning Blvd, "
+msgstr "3994 William S Canning Blvd, "
+
+#: patterns/footer-default.php:117
+msgid "Fse Fitness Location"
+msgstr "Расположение фитнес-центра Fse"
+
+#: patterns/footer-default.php:109
+msgid "Cardio Classes"
+msgstr "Кардио-занятия"
+
+#: patterns/footer-default.php:105
+msgid "Zumba Classes"
+msgstr "Зумба-классы"
+
+#: patterns/footer-default.php:101
+msgid "Yoga Classes"
+msgstr "Занятия йогой"
+
+#: patterns/footer-default.php:97
+msgid "Aerobics Class"
+msgstr "Занятия аэробикой"
+
+#: patterns/footer-default.php:93
+msgid "Fitness Classes"
+msgstr "Фитнес-классы"
+
+#: patterns/footer-default.php:87
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: patterns/footer-default.php:75 patterns/footer-default.php:79
+msgid "BOOST PERFORMANCE"
+msgstr "ПОВЫШЕНИЕ ПРОИЗВОДИТЕЛЬНОСТИ"
+
+#: patterns/footer-default.php:71
+msgid "GYM EXERCISES TO BOOST"
+msgstr "УПРАЖНЕНИЯ В СПОРТИВНОМ ЗАЛЕ ДЛЯ РАЗВИТИЯ"
+
+#: patterns/footer-default.php:67
+msgid "FITNESS CLASS FOR YOU"
+msgstr "ФИТНЕС-КЛАСС ДЛЯ ВАС"
+
+#: patterns/footer-default.php:61
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: patterns/footer-default.php:41
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+
+#: patterns/footer-default.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+msgstr "Напишите свой собственный текст здесь. Это всего лишь демонстрационный текст, который вы должны заменить"
+
+#: patterns/footer-default.php:13
+msgid "Suscribe to Our Newsletter!"
+msgstr "Подпишитесь на нашу рассылку!"
+
+#: patterns/features.php:64
+msgid "Boxing Practices"
+msgstr "Практические занятия по боксу"
+
+#: patterns/features.php:42
+msgid "Rope Skipping"
+msgstr "Прыгание через скакалку"
+
+#: patterns/features.php:25 patterns/features.php:47 patterns/features.php:69
+msgid "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+msgstr "просто фиктивный текст полиграфической и наборной промышленности. Lorem Ipsum был стандартным фиктивным текстом в отрасли с 1500-х годов."
+
+#: patterns/features.php:25 patterns/features.php:47 patterns/features.php:69
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#: patterns/features.php:20
+msgid "Everyday Gym"
+msgstr "Ежедневный тренажерный зал"
+
+#: patterns/contact.php:92
+msgid "Write your address"
+msgstr "Напишите свой адрес"
+
+#: patterns/contact.php:88
+msgid "Address"
+msgstr "Адрес"
+
+#: patterns/contact.php:74
+msgid "info@yourdomain.com"
+msgstr "info@yourdomain.com"
+
+#: patterns/contact.php:70
+msgid "Email Us"
+msgstr "Напишите нам"
+
+#: patterns/contact.php:56
+msgid "+1-12345678"
+msgstr "+1-12345678"
+
+#: patterns/contact.php:52
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: patterns/contact.php:34
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales sapien id dolor aliquam volutpat. Suspendisse fermentum lorem."
+
+#: patterns/contact.php:30
+msgid "Get In Touch"
+msgstr "Свяжитесь с нами"
+
+#: patterns/contact.php:19
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: patterns/clients.php:19
+msgid "Associated Companies"
+msgstr "Ассоциированные компании"
+
+#: patterns/clients.php:15
+msgid "Our Partners"
+msgstr "Наши партнеры"
+
+#: patterns/about-us.php:104 patterns/latest-news-alternative.php:31
+#: patterns/latest-news.php:31 patterns/service-one.php:43
+#: patterns/service-one.php:69 patterns/service-one.php:89
+#: patterns/service-one.php:115 patterns/service-two.php:164
+msgid "Explore More"
+msgstr "Узнать больше"
+
+#: patterns/about-us.php:90 patterns/service-two.php:147
+msgid "Sport Nutrition"
+msgstr "Спортивное питание"
+
+#: patterns/about-us.php:68
+msgid "Body Fitness"
+msgstr "Фитнес для тела"
+
+#: patterns/about-us.php:51 patterns/about-us.php:73 patterns/about-us.php:95
+#: patterns/planning.php:109
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: patterns/about-us.php:46
+msgid "Modern Equipment"
+msgstr "Современное оборудование"
+
+#: patterns/about-us.php:32
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut"
+
+#: patterns/about-us.php:26
+msgid "WE RAISE YOUR CONFIDENCE"
+msgstr "МЫ ПОВЫШАЕМ ВАШУ УВЕРЕННОСТЬ"
+
+#: patterns/about-us.php:22
+msgid "ABOUT OUR CLUB"
+msgstr "О НАШЕМ КЛУБЕ"
+
+#: patterns/about-us-video.php:38 patterns/hero-section.php:39
+#: patterns/portfolio.php:31 patterns/section-title.php:30
+#: patterns/team-2.php:31
+msgid "View More"
+msgstr "Смотреть больше"
+
+#: patterns/about-us-video.php:32
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+#: patterns/about-us-video.php:28
+msgid "Groove, Shake and Dance Your Way To A Toned Body"
+msgstr "Тренируйтесь, тряситесь и танцуйте – ваш путь к подтянутому телу"
+
+#: patterns/about-us-2.php:98
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: patterns/about-us-2.php:80
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: patterns/about-us-2.php:67
+msgid "About More"
+msgstr "О большем"
+
+#: patterns/about-us-2.php:57 patterns/service-three.php:18
+#: patterns/service-two.php:18
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+
+#: patterns/about-us-2.php:34 patterns/planning.php:29
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr "Lorem ipsum: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+#: patterns/about-us-2.php:28
+msgid "We’ve 20 Years Of Experienced &amp; Provide Gym Solutions"
+msgstr "Мы имеем 20-летний опыт работы и предоставляем решения для тренажерных залов"
+
+#: patterns/about-us-2.php:24
+msgid "Who We Are"
+msgstr "Кто мы есть"
+
+#: inc/core/template-functions.php:67
+msgid "Copyright  &copy; "
+msgstr "Copyright  &copy; "
+
+#: functions.php:64
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://sparklewpthemes.com"
+msgstr "https://sparklewpthemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "sparklewpthemes"
+msgstr "sparklewpthemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://sparklewpthemes.com/wordpress-themes/fitness-fse-full-site-editing-wordpress-theme/"
+msgstr "https://sparklewpthemes.com/wordpress-themes/fitness-fse-full-site-editing-wordpress-theme/"

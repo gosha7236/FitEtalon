@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-09 17:56+0300\n"
+"PO-Revision-Date: 2019-10-09 17:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: Maxim Glazunov <djdiplomat477@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: maps-for-wp.php\n"
+"X-Poedit-SearchPath-1: settings.php\n"
+
+#: maps-for-wp.php:165
+msgid "Maps for WP"
+msgstr "Maps for WP"
+
+#: maps-for-wp.php:427 maps-for-wp.php:431 settings.php:123
+msgid "Google Maps require an API key to function"
+msgstr "Для работы карт Гугл обязателен API ключ"
+
+#: maps-for-wp.php:427 maps-for-wp.php:431 settings.php:124
+msgid "You can create an API key here now (free)"
+msgstr "Вы можете получить API ключ тут (бесплатно)"
+
+#: maps-for-wp.php:427 maps-for-wp.php:431
+msgid ""
+"Fill in the \"Google Maps API Key\" field in the plugin&#39;s settings or "
+"switch to Yandex maps"
+msgstr ""
+"Заполните поле \"API ключ Google Maps\" в настройках плагина или "
+"переключитесь на Яндекс карты"
+
+#: maps-for-wp.php:435
+msgid "Updated"
+msgstr "Обновлено"
+
+#: settings.php:84
+msgid "Maps for WP Settings"
+msgstr "Настройки Maps for WP"
+
+#: settings.php:107
+msgid "Main parameters"
+msgstr "Основные параметры"
+
+#: settings.php:110
+msgid "Use maps from"
+msgstr "Использовать карты от"
+
+#: settings.php:113
+msgid "Yandex"
+msgstr "Яндекс"
+
+#: settings.php:114
+msgid "Google"
+msgstr "Гугл"
+
+#: settings.php:116 settings.php:157
+msgid ""
+"Please note that in order to work correctly with Google Maps, you need to "
+"provide an API key"
+msgstr ""
+"Обратите внимание, что для правильной работы с Картами Google вам необходимо "
+"указать API ключ"
+
+#: settings.php:120
+msgid "Google Maps API Key"
+msgstr "API ключ Google Maps"
+
+#: settings.php:123
+msgid "Required for Google Maps"
+msgstr "Обязателен для Google Maps"
+
+#: settings.php:123
+msgid "Read more"
+msgstr "Подробнее"
+
+#: settings.php:129 settings.php:132
+msgid "Use standard map markers"
+msgstr "Использовать стандартные маркеры карт"
+
+#: settings.php:136
+msgid "The image point on the map (36×36)"
+msgstr "Иконка точки на карте (36×36)"
+
+#: settings.php:149
+msgid "Default Type of Maps"
+msgstr "Тип карты"
+
+#: settings.php:152
+msgid "Roadmap"
+msgstr "Обычная"
+
+#: settings.php:153
+msgid "Satellite"
+msgstr "Спутник"
+
+#: settings.php:154
+msgid "Hybrid"
+msgstr "Гибрид"
+
+#: settings.php:155
+msgid "Terrain (only Google Maps)"
+msgstr "Местность (только для Карт Гугл)"
+
+#: settings.php:161
+msgid "Style of Maps"
+msgstr "Стиль карт"
+
+#: settings.php:164
+msgid "Default"
+msgstr "По умолчанию"
+
+#: settings.php:165
+msgid "Black-white"
+msgstr "Черно-белый"
+
+#: settings.php:166
+msgid "Blackout"
+msgstr "Затемнение"
+
+#: settings.php:167
+msgid "Color inversion"
+msgstr "Цветовая инверсия"
+
+#: settings.php:169
+msgid "Only for Yandex maps"
+msgstr "Только для Яндекс карт"
+
+#: settings.php:173
+msgid "Default maps height"
+msgstr "Высота карт по умолчанию"
+
+#: settings.php:176
+msgid "Default maps height in pixels"
+msgstr "Высота карт по умолчанию в пикселях"
+
+#: settings.php:180
+msgid "Default Zoom map with one point"
+msgstr "Масштаб карты с одной точкой"
+
+#: settings.php:183
+msgid "Zoom map with one point"
+msgstr "Масштаб карты с одной точкой"
+
+#: settings.php:187
+msgid "Default Zoom map with many points"
+msgstr "Масштаб карты с множеством точек"
+
+#: settings.php:190
+msgid "Zoom map with many points"
+msgstr "Масштаб карты с множеством точек"
+
+#: settings.php:194
+msgid "Latitude center map with many points"
+msgstr "Широта центра карты с множеством точек"
+
+#: settings.php:198
+msgid "Longitude center map with many points"
+msgstr "Долгота карты с множеством точек"
+
+#: settings.php:210
+msgid "Save"
+msgstr "Сохранить"
+
+#: settings.php:211
+msgid "Click to save the settings"
+msgstr "Нажмите, чтобы сохранить настройки"
+
+#: settings.php:222
+msgid "Please support the project!"
+msgstr "Пожалуйста, поддержите проект!"
+
+#: settings.php:223
+msgid "Thank you for using the plugin"
+msgstr "Спасибо, что используете плагин"
+
+#: settings.php:224
+msgid "Please help make the plugin better"
+msgstr "Помогите сделать плагин лучше"
+
+#: settings.php:224
+msgid "answering 5 questions"
+msgstr "ответив на 5 вопросов"
+
+#: settings.php:225
+msgid "If this plugin useful to you, please support the project one way"
+msgstr "Если этот плагин вам полезен, пожалуйста, поддержите проект"
+
+#: settings.php:227
+msgid "Leave a comment on the plugin page"
+msgstr "Оставить комментарий на странице плагина"
+
+#: settings.php:228
+msgid "Support the project financially. Even $1 is a help!"
+msgstr "Поддержите проект деньгами. Даже 100 рублей - это помощь!"
+
+#: settings.php:228
+msgid "Donate now"
+msgstr "Поддержать"
+
+#: settings.php:229
+msgid "Noticed a bug or have an idea how to improve the quality of the plugin?"
+msgstr "Заметили ошибку или есть идея, как улучшить качество плагина?"
+
+#: settings.php:229
+msgid "Let me know"
+msgstr "Напишите мне"
+
+#: settings.php:231
+msgid "The author of the plugin Maxim Glazunov"
+msgstr "Автор плагина, Максим Глазунов"
+
+#: settings.php:232
+msgid "Accept orders for individual revision of the plugin"
+msgstr "Принимаю заказы на индивидуальную доработку плагина"
+
+#: settings.php:232
+msgid "Leave a request"
+msgstr "Оставить заявку"
+
+#: settings.php:239
+msgid "Examples shotcodes"
+msgstr "Пример шорткодов"
+
+#: settings.php:241 settings.php:253
+msgid "Where"
+msgstr "Где"
+
+#: settings.php:242 settings.php:254
+msgid "unique id"
+msgstr "уникальный id"
+
+#: settings.php:243 settings.php:255
+msgid "map layer"
+msgstr "слой карты"
+
+#: settings.php:244 settings.php:256
+msgid "longitude of the center of the map"
+msgstr "долгота центра карты"
+
+#: settings.php:245 settings.php:257
+msgid "latitude of the center of the map"
+msgstr "широта центра карты"
+
+#: settings.php:246 settings.php:258
+msgid "style of Maps"
+msgstr "cтиль карт"
+
+#: settings.php:247 settings.php:259
+msgid "Map height in pixels"
+msgstr "Высота карты в пикселях"
+
+#: settings.php:248 settings.php:260
+msgid "URL image markers"
+msgstr "URL картинок маркеров"
+
+#: settings.php:249
+msgid "Text when pointing to a point"
+msgstr "Текст при наведении на точку"
+
+#: settings.php:250
+msgid "Text when clicking on a point"
+msgstr "Текст при клике на точку"
+
+#~ msgid "Google Maps require an API key to function."
+#~ msgstr "Для работы карт Гугл обязателен API ключ."
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Latitude map with one point"
+#~ msgstr "Широтка карты с одной точкой"
+
+#~ msgid "Longitude map with one point"
+#~ msgstr "Долготак карты с одной точкой"
+
+#~ msgid "Location"
+#~ msgstr "Местоположение"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Longitude"
+#~ msgstr "Долгота"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Region"
+#~ msgstr "Регион"
+
+#~ msgid "Subadministrative"
+#~ msgstr "Район"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "The exact address"
+#~ msgstr "Точный адрес"

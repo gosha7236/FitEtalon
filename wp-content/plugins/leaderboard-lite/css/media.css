@@ -1,0 +1,151 @@
+
+/* ==========================================================================
+   Media styles
+   ========================================================================== */
+
+
+@media screen and ( max-width: 1200px ) 
+{
+    .plugin-container { width: 940px;}
+    .resize-table { overflow-x: scroll;}
+    .table-box { width: 1140px;}
+    .events-listing-top { width: 80%;}
+    .events-details-top-left { width: 42%;}
+    .form-commen-input { width: 270px;}
+    .form-commen-select {width: 180px;}
+    .form-commen-submit { width: 145px;}
+    
+    .compititor-left { width: 20%;}
+    .compititor-right { width: 79%;}
+}
+
+
+@media screen and ( max-width: 991px ) 
+{
+    .plugin-container { width: 720px;}
+    
+    .score-bord-top-main { padding-left: 0px;}
+    span.score-bord-top-img { position: static; margin-bottom: 25px;}
+    .score-bord-top-main { text-align: center;}
+    span.live-now { margin: auto; margin-bottom: 20px;}
+    .events-listing-top { width: 74%;}
+    .vents-results-input { width: 88%;}
+    
+    .details-tabs-left { width: 65%;}
+    .details-tabs-left-div { padding-right: 35px;}
+    .details-tabs-right { width: 35%;}
+    .events-details-top-left { padding-left: 0px;}
+    span.events-details-top-icon { position: static;}
+    .events-details-top-left { padding-top: 0px;}
+    .events-details-top-left > h3 { font-size: 18px; margin-bottom: 0px;}
+    .working-top-main { padding-left: 0px;}
+    
+    .workout-listing-form > ul > li { width: 48%; margin: 0px;}
+    .form-commen-input { width: 83%;}
+    .form-commen-select { width: 100%;}
+    .form-commen-submit { width: 100%; top: 3px; position: relative;}
+    .workout-deatil-top-left { width: 100%; padding: 15px; width: 96%;}
+    .workout-deatil-top-right { width: 100%;}
+    .workout-deatil-top-block { padding: 50px 0;}
+    .workout-deatil-top-block h3 { font-size: 35px; line-height: 38px; margin-bottom: 33px;}
+    .workout-details-main { padding-left: 0px; text-align: center;}
+    
+    .compititor-left { width: 30%;}
+    .compititor-right { width: 69%;}
+    .compititor-regi-left { width: 100%; float: none;}
+    .compititor-regi-right { width: 100%; float: none;}
+    .Submit-btn { width: 185px;}
+    .compititor-regi-main > h3 { padding: 25px 0;}
+    .events-select2 { margin-left: 20px;}
+}
+
+@media screen and ( max-width: 767px ) 
+{	
+    .plugin-container { width: 100%;}
+    .scorebord-table-main .resp-tab-active { color: #000 !important;}
+    .events-listing-main { margin-left: 0px; padding: 0 15px; text-align: center;}
+    .events-listing-top { width: 100%; padding-right: 0px;}
+    span.events-listing-span { left: 0px; position: static;}
+    .events-results-top-main h3 { text-align: center;}
+    .events-results-div { padding: 0 15px;}
+    a.leader-bord-btn { display: inline-block; position: static; margin-bottom: 20px;}
+    span.events-listing-span { position: static; margin-bottom: 20px; display: inline-block;}
+    .vents-results-input { width: 100%; padding: 0px;}
+    .events-results-div:before { display: none;}
+    .events-results-menu-main > ul > li > a { font-size: 14px;}
+    
+    .log-in-block { padding: 100px 0;}
+    .log-in-main { width: 90%; margin: auto;}
+    .log-in-form > ul > li { padding-left: 0px;}
+    .log-in-form > ul > li > span { position: static;}
+    .log-in-form { padding: 25px;}
+    .log-in-main > h3 { padding: 30px 0;}
+    .events-details-top-left { width: 100%; text-align: center; float: none;}
+    .events-details-top-right { width: 100%; float: left; text-align: center;}
+    .details-tabs-left { width: 100%; float: none;}
+    .details-tabs-left-div { padding-right: 0px;}
+    .details-tabs-right { width: 100%; margin-top: 30px; float: none; box-shadow: 0 0px 22px 0 rgba(192, 224, 248, 0.45);}
+    .working-top-main { padding: 0 15px;}
+    .workout-listing-form { padding: 0 15px;}
+    .workout-listing-form > ul > li { display: block; width: 100%;}
+    .form-commen-input { padding: 0px; width: 100%; padding: 0px;}
+    
+    .listing-form-commen { margin-bottom: 10px;}
+    .form-commen-select { padding: 0 10px;}
+    .workout-deatil-top-left { padding: 0px; width: 100%;}
+    
+    .compititor-left { width: 100%; float: none; padding: 30px 0;}
+    .compititor-right { width: 100%; float: none;}
+    .compititor-right-top { text-align: center;}
+    .compititor-block { padding: 50px 0;}
+    .compititor-regi-cont ul li > label { float: none; width: 100%;}
+    .submit-left-block { width: 100%; float: none;}
+    .submit-right-block { width: 100%; float: none; text-align: left; padding-top: 15px;}
+    .compititor-textarea { height: 150px;}
+    .compititor-regi-cont, .submit-block { padding: 15px;}
+    
+    .events-reg-form-main { padding: 0 15px;}
+    .events-reg-top-main { padding: 0 15px;}
+    .events-reg-sec-main { text-align: center;}
+    .events-reg-top-left h3 { line-height: 36px;}
+    .events-reg-form-button { padding: 25px 15px 0 15px;}
+    .events-reg-top-left { width: 100%; float: none; text-align: center;}
+    .events-reg-top-right { width: 100%; float: none; text-align: center; padding-top: 15px;}
+    .events-reg-form-main > ul > li { width: 100%; float: none;}
+    .events-reg-form-main > ul > li:nth-child(even) { float: none;}
+    .events-reg-top-left h3 { font-size: 20px; line-height: 24px; margin-bottom: 10px;}
+    .additional-info > ul > li { width: 100%; float: none; margin-bottom: 25px;}
+    .additional-info > ul > li:nth-child(even) { float: none; width: 100%;}
+    .events-select2 { width: 100%; margin-bottom: 25px; margin-left: 0px;}
+    .events-reg-form-button { text-align: left;}
+    
+}
+
+@media screen and ( min-width: 768px )
+
+}
+
+@media screen and ( max-width: 600px ) 
+{
+	
+}
+
+@media screen and ( max-width: 480px ) 
+{
+    .proceed-payment-btn { width: 100%;}
+    
+}
+
+@media screen and ( max-width: 400px ) 
+{
+	
+	
+	
+}
+
+@media screen and ( max-width: 320px ) 
+{
+		
+}
+
+

@@ -1,0 +1,609 @@
+# Translation of Plugins - Compress, Resize &amp; Lazy Load Images &#8211; WPvivid Image Optimization - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Compress, Resize &amp; Lazy Load Images &#8211; WPvivid Image Optimization - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-06 02:19:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Compress, Resize &amp; Lazy Load Images &#8211; WPvivid Image Optimization - Stable (latest release)\n"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:516
+msgid "Click 'Empty' button to delete images backup"
+msgstr "Нажмите кнопку 'Очистить' для удаления резервной копии изображений"
+
+#: includes/display/class-wpvivid-cdn-display.php:30
+msgid "CDN Integration"
+msgstr "Интеграция CDN"
+
+#: includes/cdn/class-wpvivid-cdn.php:468
+#: includes/display/class-wpvivid-cdn-display.php:292
+msgid "Convert Images to WebP"
+msgstr "Конвертация изображений в WebP"
+
+#: includes/cdn/class-wpvivid-cdn.php:463
+#: includes/class-wpvivid-imgoptim.php:1090
+#: includes/display/class-wpvivid-cdn-display.php:287
+msgid "cdn Integration"
+msgstr "cdn интеграция"
+
+#: includes/cdn/class-wpvivid-cdn.php:459
+#: includes/display/class-wpvivid-cdn-display.php:283
+msgid "Lazy Loading"
+msgstr "Отложенная загрузка"
+
+#: includes/cdn/class-wpvivid-cdn.php:220
+#: includes/display/class-wpvivid-cdn-display.php:44
+msgid "WPvivid Plugins - cdn"
+msgstr "WPvivid плагины - cdn"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:987
+msgid "Cloud Server"
+msgstr "Облачный сервер"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:107
+msgid "Result (including thumbnails)"
+msgstr "Результат (включая миниатюры)"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:527
+msgid "Enable real-time optimization upon upload"
+msgstr "Включить оптимизацию в реальном времени при загрузке"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:522
+msgid "Real-Time Optimization"
+msgstr "Оптимизация в реальном времени"
+
+#. Plugin Name of the plugin
+msgid "WPvivid Imgoptim Free"
+msgstr "WPvivid Imgoptim Free"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:105
+msgid "Images (Media Library)"
+msgstr "Изображения (медиа библиотека)"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:493
+#: includes/display/class-wpvivid-imgoptim-display.php:514
+msgid "Restore all images"
+msgstr "Восстановить все изображения"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:276
+msgid "Fade in"
+msgstr "Затухание"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:271
+msgid "Animation"
+msgstr "Анимация"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:266
+msgid "The plugin will load it’s scripts in the footer by default to speed up page loading times. Switch to the header option if you have problems"
+msgstr "По умолчанию плагин загружает свои скрипты в футер, чтобы ускорить загрузку страницы. Если у вас возникли проблемы, переключитесь на вариант с хедером"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:255
+msgid "function are required for your theme"
+msgstr "функция, необходимая для вашей темы"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:255
+msgid "and"
+msgstr "и"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:255
+msgid "The"
+msgstr "Это"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:252
+msgid "Location where scripts insert"
+msgstr "Расположение, куда вставляются скрипты"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:239
+msgid "Browsers compatibility"
+msgstr "Совместимость браузеров"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:223
+msgid "Lazyload works on locations"
+msgstr "Отложенная загрузка работает на позициях"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:194
+msgid "Media type to lazyload"
+msgstr "Тип медиа для отложенной загрузки"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:188
+msgid "Once enabled, the plugin will delay loading images on your website site pages until visitors scroll down to them, hence speeding up your website pages loading time and improving your Google PageSpeed Insights score."
+msgstr "После включения плагин будет задерживать загрузку изображений на страницах сайта до тех пор, пока посетители не перейдут к ним, тем самым ускоряя время загрузки страниц и улучшая показатели Google PageSpeed Insights."
+
+#: includes/display/class-wpvivid-lazy-load-display.php:186
+msgid "Enable lazyload"
+msgstr "Включить отложенную загрузку"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:177
+msgid "Enable/Disable lazyload"
+msgstr "Включить/отключить отложенную загрузку"
+
+#: includes/display/class-wpvivid-lazy-load-display.php:84
+msgid "Enabling lazy loading can speed up your website pages loading time and improve your Google PageSpeed Insights score, which is recommended."
+msgstr "Включение отложенной загрузки может ускорить загрузку страниц вашего сайта и повысить ваш показатель Google PageSpeed Insights, что рекомендуется."
+
+#: includes/display/class-wpvivid-lazy-load-display.php:80
+msgid "This page allows you to enable lazy loading on your website to delay loading images or medias on your website pages until they are needed."
+msgstr "Эта страница позволяет вам включить отложенную загрузку на вашем сайте, чтобы отложить загрузку изображений или мультимедиа на страницах вашего сайта до тех пор, пока они не понадобятся."
+
+#: includes/display/class-wpvivid-lazy-load-display.php:42
+msgid "WPvivid Plugins - Lazyload"
+msgstr "Плагин WPvivid - Отложенная загрузка"
+
+#: includes/class-wpvivid-imgoptim.php:1086
+#: includes/display/class-wpvivid-lazy-load-display.php:28
+#: includes/display/class-wpvivid-lazy-load-display.php:77
+msgid "Lazyload"
+msgstr "Отложенная загрузка"
+
+#: includes/cdn/class-wpvivid-cdn.php:482
+#: includes/class-wpvivid-imgoptim.php:1104
+#: includes/display/class-wpvivid-cdn-display.php:306
+msgid "If you need any help with our plugin, start a thread on the plugin support forum and we will respond shortly."
+msgstr "Если вам нужна помощь с нашим плагином, начните тему на форуме поддержки, и мы ответим вам в ближайшее время."
+
+#: includes/cdn/class-wpvivid-cdn.php:480
+#: includes/class-wpvivid-imgoptim.php:1102
+#: includes/display/class-wpvivid-cdn-display.php:304
+msgid "Get Support on Forum"
+msgstr "Получить поддержку на форуме"
+
+#: includes/cdn/class-wpvivid-cdn.php:474
+#: includes/class-wpvivid-imgoptim.php:1096
+#: includes/display/class-wpvivid-cdn-display.php:298
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/cdn/class-wpvivid-cdn.php:448
+#: includes/class-wpvivid-imgoptim.php:1075
+#: includes/display/class-wpvivid-cdn-display.php:272
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/class-wpvivid-imgoptim.php:664
+#: includes/class-wpvivid-imgoptim.php:718
+#: includes/class-wpvivid-imgoptim.php:783
+#: includes/class-wpvivid-imgoptim.php:894
+#: includes/class-wpvivid-imgoptim.php:1016
+msgid "Restore"
+msgstr "Восстановить"
+
+#: includes/class-wpvivid-imgoptim.php:654
+#: includes/class-wpvivid-imgoptim.php:707
+#: includes/class-wpvivid-imgoptim.php:772
+#: includes/class-wpvivid-imgoptim.php:881
+#: includes/class-wpvivid-imgoptim.php:998
+#: includes/class-wpvivid-imgoptim.php:1002
+msgid "Optimize"
+msgstr "Оптимизировать"
+
+#: includes/class-wpvivid-imgoptim.php:650
+#: includes/class-wpvivid-imgoptim.php:703
+#: includes/class-wpvivid-imgoptim.php:768
+#: includes/class-wpvivid-imgoptim.php:877
+#: includes/class-wpvivid-imgoptim.php:992
+msgid "Optimizing..."
+msgstr "Оптимизация..."
+
+#: includes/class-wpvivid-imgoptim.php:638
+#: includes/class-wpvivid-imgoptim.php:691
+msgid "Not support"
+msgstr "Не поддерживается"
+
+#: includes/class-wpvivid-imgoptim.php:626
+#: includes/class-wpvivid-imgoptim.php:679
+#: includes/class-wpvivid-imgoptim.php:742
+msgid "Check your Settings"
+msgstr "Проверьте настройки"
+
+#: includes/class-wpvivid-imgoptim.php:625
+#: includes/class-wpvivid-imgoptim.php:678
+#: includes/class-wpvivid-imgoptim.php:741
+msgid "Not set License"
+msgstr "Не установлена лицензия"
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:516
+msgid "Logging in to your Wpvivid account"
+msgstr "Вход в Wpvivid аккаунт"
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:465
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:417
+msgid "Current Version"
+msgstr "Текущая версия"
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:392
+msgid "Enter your API license (it’s free) to activate WPvivid Image Optimization plugin."
+msgstr "Введите лицензию API (она бесплатна) для активации плагина WPvivid Image Optimization."
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:328
+msgid "You can sign up on wpvivid.com to get an API license(it’s free)."
+msgstr "Вы можете зарегистрироваться на сайте wpvivid.com, чтобы получить лицензию API (это бесплатно)."
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:316
+msgid "WPvivid Imgoptim - API License"
+msgstr "WPvivid Imgoptim - Лицензия API"
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:302
+msgid "API License"
+msgstr "Лицензия API"
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:241
+#: includes/display/class-wpvivid-imgoptim-license-display.php:245
+msgid "Sorry, that email address is already used."
+msgstr "Извините, этот email уже используется."
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:235
+msgid "Your account has been successfully created. Please check your mailbox, you are going to receive an email with API key."
+msgstr "Ваш аккаунт успешно создан. Пожалуйста, проверьте свой почтовый ящик, вы получите письмо с ключом API."
+
+#: includes/display/class-wpvivid-imgoptim-license-display.php:88
+msgid "Logging in to your %s account"
+msgstr "Вход в аккаунт %s"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2961
+msgid "please log in first"
+msgstr "пожалуйста, сначала войдите"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2792
+msgid "Reading the log failed. Please try again."
+msgstr "Сбой чтения журнала. Повторите попытку."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2680
+#: includes/display/class-wpvivid-imgoptim-display.php:2726
+#: includes/display/class-wpvivid-imgoptim-display.php:2774
+#: includes/display/class-wpvivid-imgoptim-display.php:2879
+msgid "Unable to open the log file."
+msgstr "Не удалось открыть файл журнала."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2671
+#: includes/display/class-wpvivid-imgoptim-display.php:2706
+#: includes/display/class-wpvivid-imgoptim-display.php:2717
+#: includes/display/class-wpvivid-imgoptim-display.php:2755
+#: includes/display/class-wpvivid-imgoptim-display.php:2765
+#: includes/display/class-wpvivid-imgoptim-display.php:2870
+#: includes/display/class-wpvivid-imgoptim-display.php:2900
+msgid "The log not found."
+msgstr "Журнал не найден."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2288
+msgid "Year"
+msgstr "Год"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2276
+msgid "Day"
+msgstr "День"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:2264
+msgid "Month"
+msgstr "Месяц"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:1553
+msgid "Compress and resize all images"
+msgstr "Сжатие и изменение размера всех изображений"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:1549
+msgid "Resizing images only"
+msgstr "Только изменение размеров изображений"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:989
+msgid "Setting"
+msgstr "Настройка"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:980
+msgid "Total Saved"
+msgstr "Всего сэкономлено"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:975
+msgid "Optimized Size"
+msgstr "Оптимизированный размер"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:970
+msgid "Original Size"
+msgstr "Оригинальный размер"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:925
+msgid "Credits"
+msgstr "Кредиты"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:824
+#: includes/display/class-wpvivid-imgoptim-display.php:847
+#: includes/display/class-wpvivid-imgoptim-display.php:872
+#: includes/display/class-wpvivid-imgoptim-display.php:2935
+msgid "completed"
+msgstr "завершено"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:819
+#: includes/display/class-wpvivid-imgoptim-display.php:842
+#: includes/display/class-wpvivid-imgoptim-display.php:867
+#: includes/display/class-wpvivid-imgoptim-display.php:942
+#: includes/display/class-wpvivid-imgoptim-display.php:2930
+msgid "Un-optimized"
+msgstr "Неоптимизировано"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:818
+#: includes/display/class-wpvivid-imgoptim-display.php:841
+#: includes/display/class-wpvivid-imgoptim-display.php:866
+#: includes/display/class-wpvivid-imgoptim-display.php:955
+#: includes/display/class-wpvivid-imgoptim-display.php:2929
+msgid "Optimized"
+msgstr "Оптимизировано"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:815
+#: includes/display/class-wpvivid-imgoptim-display.php:838
+#: includes/display/class-wpvivid-imgoptim-display.php:863
+#: includes/display/class-wpvivid-imgoptim-display.php:2926
+msgid "Bulk Optimization Progress"
+msgstr "Прогресс массовой оптимизации"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:788
+msgid "It is recommended to back up the entire website with"
+msgstr "Рекомендуется создать резервную копию всего сайта с"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:782
+msgid "The page allows you to optimize images or media files on your website in bulk."
+msgstr "Эта страница позволяет вам массово оптимизировать изображения или медиафайлы на вашем сайте."
+
+#: includes/cdn/class-wpvivid-cdn.php:455
+#: includes/class-wpvivid-imgoptim.php:1082
+#: includes/display/class-wpvivid-cdn-display.php:279
+#: includes/display/class-wpvivid-imgoptim-display.php:777
+msgid "Image Bulk Optimization"
+msgstr "Массовая оптимизация изображений"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:730
+msgid "Logs"
+msgstr "Журналы"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:721
+msgid "Optimized Images("
+msgstr "Оптимизированные изображения ("
+
+#: includes/display/class-wpvivid-imgoptim-display.php:680
+msgid "WPvivid Plugins - Image Optimization"
+msgstr "Плагин WPvivid - Оптимизация изображений"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:610
+msgid "3. Go back to this page and paste the key in key box below. Lastly, click Save button."
+msgstr "3. Вернитесь на эту страницу и вставьте ключ в поле ниже. Наконец, нажмите кнопку Сохранить."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:609
+msgid "2. Generate a key by clicking Generate button and copy it."
+msgstr "2. Сгенерируйте ключ, нажав кнопку Сгенерировать и скопируйте его."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:608
+msgid "1. Visit Key tab page of WPvivid backup plugin of destination site."
+msgstr "1. Перейдите на вкладку \"Ключ\" плагина резервного копирования WPvivid целевого сайта."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:607
+msgid "Step Three: Click 'Restore' button"
+msgstr "Шаг третий: Нажмите кнопку 'Восстановить'"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:606
+msgid "Step Two: Choose an option to complete restore, if any"
+msgstr "Шаг второй: Выберите параметры завершения восстановления, если имеется"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:605
+msgid "Step One: In the backup list, click the 'Restore' button on the backup you want to restore. This will bring up the restore tab"
+msgstr "Шаг первый: В списке резервных копий нажмите \"Восстановить\" на резервной копии, которую хотите восстановить. Это откроет вкладку восстановление"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:604
+msgid "Calculating the size of files, folder and database timed out. If you continue to receive this error, please go to the plugin settings, uncheck 'Calculate the size of files, folder and database before backing up', save changes, then try again."
+msgstr "Истекло время ожидания вычисления размеров файлов, папок и базы данных. Если вы продолжаете получать эту ошибку, пожалуйста, перейдите в настройки плагина, снимите флажок \"Рассчитывать размер файлов, папок и базы данных перед резервным копированием\", сохраните изменения, затем повторите попытку."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:603
+msgid "Warning: The alias already exists in storage list."
+msgstr "Внимание: Псевдоним уже существует в списке хранения."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:602
+msgid "Warning: An alias for remote storage is required."
+msgstr "Внимание: Для удаленного хранения требуется псевдоним."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:601
+msgid "Error:"
+msgstr "Ошибка:"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:600
+msgid "Warning:"
+msgstr "Внимание:"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:495
+#: includes/display/class-wpvivid-imgoptim-display.php:516
+msgid "Apply"
+msgstr "Применить"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:492
+#: includes/display/class-wpvivid-imgoptim-display.php:513
+msgid "Restore selected images"
+msgstr "Восстановить выбранные изображения"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:491
+#: includes/display/class-wpvivid-imgoptim-display.php:512
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:489
+#: includes/display/class-wpvivid-imgoptim-display.php:510
+#: includes/display/class-wpvivid-imgoptim-display.php:2262
+msgid "Select bulk action"
+msgstr "Выбрать массовое действие"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:442
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:432
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:424
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s из %2$s"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:414
+#: includes/display/class-wpvivid-imgoptim-display.php:418
+msgid "Current Page"
+msgstr "Текущая страница"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:407
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:396
+msgid "First page"
+msgstr "Первая страница"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:365
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s объект"
+msgstr[1] "%s объекта"
+msgstr[2] "%s объектов"
+
+#: includes/class-wpvivid-imgoptim.php:663
+#: includes/class-wpvivid-imgoptim.php:717
+#: includes/class-wpvivid-imgoptim.php:782
+#: includes/class-wpvivid-imgoptim.php:892
+#: includes/class-wpvivid-imgoptim.php:1014
+#: includes/display/class-wpvivid-imgoptim-display.php:274
+msgid "Original size"
+msgstr "Исходный размер"
+
+#: includes/class-wpvivid-imgoptim.php:662
+#: includes/class-wpvivid-imgoptim.php:716
+#: includes/class-wpvivid-imgoptim.php:781
+#: includes/class-wpvivid-imgoptim.php:891
+#: includes/class-wpvivid-imgoptim.php:1013
+#: includes/display/class-wpvivid-imgoptim-display.php:273
+msgid "Saved"
+msgstr "Сохранено"
+
+#: includes/class-wpvivid-imgoptim.php:661
+#: includes/class-wpvivid-imgoptim.php:715
+#: includes/class-wpvivid-imgoptim.php:780
+#: includes/class-wpvivid-imgoptim.php:890
+#: includes/class-wpvivid-imgoptim.php:1012
+#: includes/display/class-wpvivid-imgoptim-display.php:272
+msgid "Optimized size"
+msgstr "Оптимизированный вес"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:219
+msgid "Unfinished"
+msgstr "Незакончено"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:215
+msgid "Complete"
+msgstr "Завершено"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:180
+msgid "File name:"
+msgstr "Название файла:"
+
+#. translators: %s: attachment title
+#: includes/display/class-wpvivid-imgoptim-display.php:160
+msgid "&#8220;%s&#8221; (Edit)"
+msgstr "&#8220;%s&#8221; (Редактировать)"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:106
+#: includes/display/class-wpvivid-imgoptim-license-display.php:421
+msgid "Status"
+msgstr "Статус"
+
+#: includes/display/class-wpvivid-imgoptim-display.php:104
+msgid " "
+msgstr " "
+
+#: includes/display/class-wpvivid-imgoptim-display.php:48
+#: includes/display/class-wpvivid-imgoptim-display.php:89
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:511
+msgid "Image backup folder"
+msgstr "Папка резервного копирования изображений"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:505
+msgid "Enable image backup before optimization"
+msgstr "Включить резервное копирование изображений перед оптимизацией"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:502
+msgid "Image backup"
+msgstr "Резервное копирование изображений"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:455
+msgid "Optimize different sizes of images"
+msgstr "Оптимизация различных размеров изображений"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:443
+msgid "Enable auto-resizing large images"
+msgstr "Включитьавтоматическое изменение размера больших изображений"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:439
+msgid "Resizing large images"
+msgstr "Изменение размера больших изображений"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:431
+msgid "Leave EXIF data"
+msgstr "Оставить EXIF данные"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:423
+msgid "Lossy"
+msgstr "С потерями"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:420
+msgid "Lossless"
+msgstr "Без потерь"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:203
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:149
+msgid "All default settings are already optimal for most users, leave it as default or feel free to modify as per your preferences."
+msgstr "Все настройки по умолчанию уже являются оптимальными для большинства пользователей, оставьте их по умолчанию или не стесняйтесь изменять в соответствии с вашими предпочтениями."
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:145
+msgid "Settings page of WPvivid Image Optimization plugin."
+msgstr "Страница настроек плагина WPvivid Image Optimization."
+
+#: includes/display/class-wpvivid-imgoptim-display.php:664
+#: includes/display/class-wpvivid-imgoptim-setting.php:113
+msgid "Image Optimization"
+msgstr "Оптимизация изображения"
+
+#: includes/display/class-wpvivid-imgoptim-setting.php:92
+msgid "WPvivid Plugins Image Optimization - Settings"
+msgstr "Плагин WPvivid Image Optimization - Настройки"
+
+#: includes/class-wpvivid-imgoptim.php:116
+#: includes/class-wpvivid-imgoptim.php:122
+#: includes/display/class-wpvivid-imgoptim-setting.php:71
+#: includes/display/class-wpvivid-imgoptim-setting.php:143
+msgid "Settings"
+msgstr "Настройки"
+
+#. Author URI of the plugin
+msgid "https://wpvivid.com"
+msgstr "https://wpvivid.com"
+
+#. Author of the plugin
+msgid "WPvivid Team"
+msgstr "Команда WPvivid"
+
+#. Description of the plugin
+msgid "Optimize, compress and resize images in WordPress in bulk. Automatic image optimization, auto resize images upon upload."
+msgstr "Массовая оптимизация, сжатие и изменение размера изображений в WordPress. Автоматическая оптимизация иизменение размера изображений при загрузке."
+
+#: includes/class-wpvivid-imgoptim.php:595
+#: includes/class-wpvivid-imgoptim.php:624
+#: includes/class-wpvivid-imgoptim.php:643
+#: includes/class-wpvivid-imgoptim.php:866
+#: includes/class-wpvivid-imgoptim.php:981
+msgid "WPvivid Imgoptim"
+msgstr "WPvivid Imgoptim"
